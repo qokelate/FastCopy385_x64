@@ -1,0 +1,2719 @@
+=================================================
+FastCopy(ver3.85) start at 2020/09/06 08:43:36
+
+<Source>  M:\Alipay_v10.1.95
+<DestDir> V:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 2,428 MiB
+TotalWrite = 2,428 MiB
+TotalFiles = 3 (1)
+TotalTime  = 24.2 sec
+TransRate  = 100.5 MiB/s
+FileRate   = 0.12 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/09/08 16:50:36
+
+<Source>  F:\windows\tools\freeime\freeime.tab; F:\windows\tools\freeime\freeime64.dll; F:\windows\tools\freeime\freeime64.ime; F:\windows\tools\freeime\registry.exe; F:\windows\tools\freeime\symbol.txt; F:\windows\tools\freeime\tips.txt; F:\windows\tools\freeime\uninst.exe; F:\windows\tools\freeime\conf; F:\windows\tools\freeime\mb; F:\windows\tools\freeime\plugin; F:\windows\tools\freeime\skin; F:\windows\tools\freeime\sound; F:\windows\tools\freeime\freeime.bex; F:\windows\tools\freeime\freeime.bin; F:\windows\tools\freeime\freeime.chm; F:\windows\tools\freeime\freeime.dll; F:\windows\tools\freeime\freeime.ime
+<DestDir> C:\sma11case\tools\freeime\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 5.9 MiB
+TotalWrite = 5.9 MiB
+TotalFiles = 13 (0)
+TotalSkip  = 13 MiB
+SkipFiles  = 42 (0)
+TotalTime  = 0.2 sec
+TransRate  = 38.0 MiB/s
+FileRate   = 83.3 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/09/08 22:04:14
+
+<Source>  V:\en_windows_server_2019_updated_april_2020_x64_dvd_12d6dc63.iso
+<DestDir> D:\download\
+<Command> Move (Overwrite)
+-------------------------------------------------
+
+TotalRead  = 5,125 MiB
+TotalWrite = 5,125 MiB
+TotalFiles = 1 (0)
+TotalDel   = 5,125 MiB
+DelFiles   = 1 (0)
+TotalTime  = 26.5 sec
+TransRate  = 193.5 MiB/s
+FileRate   = 0.04 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/09/09 09:39:05
+
+<Source>  V:\ss\boot; V:\ss\efi; V:\ss\bootmgr; V:\ss\bootmgr.efi
+<DestDir> A:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 40 MiB
+TotalWrite = 40 MiB
+TotalFiles = 59 (10)
+TotalTime  = 0.4 sec
+TransRate  = 99.5 MiB/s
+FileRate   = 145.7 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/09/09 09:57:30
+
+<Source>  V:\ss\boot; V:\ss\efi; V:\ss\bootmgr; V:\ss\bootmgr.efi
+<DestDir> B:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 40 MiB
+TotalWrite = 40 MiB
+TotalFiles = 59 (10)
+TotalTime  = 0.4 sec
+TransRate  = 112.2 MiB/s
+FileRate   = 164.3 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/09/09 09:58:54
+
+<Source>  B:\efi; B:\boot
+<DestDir> V:\ss\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 1 (0)
+TotalSkip  = 38 MiB
+SkipFiles  = 56 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.98 MiB/s
+FileRate   = 62.5 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/09/11 11:45:23
+
+<Source>  V:\HNNX-business_v1.0.8\HNNXMerchant; V:\HNNX-business_v1.0.8\HNNXMerchant.i64; V:\HNNX-business_v1.0.8\headers.zip
+<DestDir> M:\hnnx-business_v1.0.8\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 83 MiB
+TotalWrite = 83 MiB
+TotalFiles = 3 (0)
+TotalTime  = 1.8 sec
+TransRate  = 45.5 MiB/s
+FileRate   = 1.64 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/09/11 13:08:02
+
+<Source>  C:\sma11case
+<DestDir> Z:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 2,015 MiB
+TotalWrite = 2,015 MiB
+TotalFiles = 7,063 (521)
+TotalTime  = 01:18
+TransRate  = 25.8 MiB/s
+FileRate   = 90.4 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/09/12 14:25:38
+
+<Source>  V:\ICBC_Business_v1.3.7
+<DestDir> Z:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 16 MiB
+TotalWrite = 16 MiB
+TotalFiles = 2 (1)
+TotalTime  = 0.2 sec
+TransRate  = 90.4 MiB/s
+FileRate   = 10.7 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/09/12 14:37:27
+
+<Source>  V:\ICBC_Business_v1.3.7
+<DestDir> M:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 16 MiB
+TotalWrite = 16 MiB
+TotalFiles = 2 (1)
+TotalTime  = 4.1 sec
+TransRate  = 4.15 MiB/s
+FileRate   = 0.49 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/09/12 14:41:31
+
+<Source>  Z:\ICBC_Business_v1.3.7\bizElife.i64
+<DestDir> M:\ICBC_Business_v1.3.7\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 234 MiB
+TotalWrite = 234 MiB
+TotalFiles = 1 (0)
+TotalTime  = 5.1 sec
+TransRate  = 46.2 MiB/s
+FileRate   = 0.20 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/09/21 15:59:19
+
+<Source>  D:\Software\NetChrome
+<DestDir> Z:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalSkip  = 563 MiB
+SkipFiles  = 3,134 (0)
+TotalTime  = 1.8 sec
+TransRate  = 0.00 MiB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/09/21 16:05:00
+
+<Source>  Z:\40003045_Win64-10.1.20.164_E.exe
+<DestDir> Z:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+FindFirstFileEx(The system cannot find the file specified.2) : Z:\40003045_Win64-10.1.20.164_E.exe
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MiB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 1)
+
+=================================================
+FastCopy(ver3.85) start at 2020/09/21 16:05:22
+
+<Source>  "V:\EastFax USB Server-DIGI 快速上手指南.pdf"; V:\EastFax_UkeyManager_Professional.rar
+<DestDir> Z:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 244 MiB
+TotalWrite = 244 MiB
+TotalFiles = 2 (0)
+TotalTime  = 2.2 sec
+TransRate  = 110.3 MiB/s
+FileRate   = 0.90 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/09/21 16:08:49
+
+<Source>  D:\Software\NetChrome
+<DestDir> Z:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 563 MiB
+TotalWrite = 563 MiB
+TotalFiles = 3,134 (751)
+TotalTime  = 31.7 sec
+TransRate  = 17.8 MiB/s
+FileRate   = 98.9 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/09/21 16:56:46
+
+<Source>  V:\aw02
+<DestDir> Z:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 257 MiB
+TotalWrite = 257 MiB
+TotalFiles = 4 (1)
+TotalTime  = 2.5 sec
+TransRate  = 101.2 MiB/s
+FileRate   = 1.57 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/09/21 17:08:00
+
+<Source>  D:\download\aw02
+<DestDir> Z:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 257 MiB
+TotalWrite = 257 MiB
+TotalFiles = 4 (1)
+TotalTime  = 2.4 sec
+TransRate  = 106.4 MiB/s
+FileRate   = 1.65 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/09/21 17:48:58
+
+<Source>  D:\download\aw02
+<DestDir> Z:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 257 MiB
+TotalWrite = 257 MiB
+TotalFiles = 4 (1)
+TotalTime  = 2.4 sec
+TransRate  = 105.7 MiB/s
+FileRate   = 1.64 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/09/23 18:06:34
+
+<Source>  Z:\XianYu_v6.7.80\Runner.i64
+<DestDir> V:\XianYu_v6.7.80\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 1,109 MiB
+TotalWrite = 1,109 MiB
+TotalFiles = 1 (0)
+TotalTime  = 11.4 sec
+TransRate  = 97.3 MiB/s
+FileRate   = 0.09 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/09/23 18:07:08
+
+<Source>  V:\XianYu_v6.7.80
+<DestDir> M:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 1,194 MiB
+TotalWrite = 1,194 MiB
+TotalFiles = 3 (1)
+TotalTime  = 32.4 sec
+TransRate  = 36.9 MiB/s
+FileRate   = 0.09 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/09/23 18:10:23
+
+<Source>  V:\XianYu_v6.7.80
+<DestDir> Z:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 1,194 MiB
+TotalWrite = 1,194 MiB
+TotalFiles = 3 (1)
+TotalTime  = 10.6 sec
+TransRate  = 112.6 MiB/s
+FileRate   = 0.28 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/09/24 11:11:47
+
+<Source>  D:\Software\NetChrome
+<DestDir> Z:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 556 MiB
+TotalWrite = 556 MiB
+TotalFiles = 3,142 (749)
+TotalTime  = 15.6 sec
+TransRate  = 35.6 MiB/s
+FileRate   = 201.0 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/09/24 16:45:18
+
+<Source>  E:\tools.t00
+<DestDir> V:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 177 MiB
+TotalWrite = 177 MiB
+TotalFiles = 1 (0)
+TotalTime  = 02:49
+TransRate  = 1.05 MiB/s
+FileRate   = 0.01 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/09/24 16:59:47
+
+<Source>  E:\tools.t00
+<DestDir> V:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalSkip  = 177 MiB
+SkipFiles  = 1 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MiB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/09/24 17:00:09
+
+<Source>  E:\tools.t00
+<DestDir> V:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 177 MiB
+TotalWrite = 177 MiB
+TotalFiles = 1 (0)
+TotalTime  = 03:07
+TransRate  = 0.95 MiB/s
+FileRate   = 0.01 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/09/24 17:06:43
+
+<Source>  E:\tools.t00
+<DestDir> V:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 177 MiB
+TotalWrite = 177 MiB
+TotalFiles = 1 (0)
+TotalTime  = 8.4 sec
+TransRate  = 21.2 MiB/s
+FileRate   = 0.12 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/09/30 08:54:34
+
+<Source>  M:\Wuyouxing6.5.0
+<DestDir> Z:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 569 MiB
+TotalWrite = 569 MiB
+TotalFiles = 3 (1)
+TotalTime  = 5.6 sec
+TransRate  = 101.7 MiB/s
+FileRate   = 0.54 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/10/09 13:26:26
+
+<Source>  D:\steam
+<DestDir> E:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 15,129 MiB
+TotalWrite = 15,129 MiB
+TotalFiles = 10,649 (842)
+TotalTime  = 02:20
+TransRate  = 107.3 MiB/s
+FileRate   = 75.5 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/10/10 09:26:57
+
+<Source>  V:\YEF_v2.0.9; V:\JEY_v1.0.8
+<DestDir> M:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 230 MiB
+TotalWrite = 230 MiB
+TotalFiles = 6 (2)
+TotalTime  = 9.4 sec
+TransRate  = 24.4 MiB/s
+FileRate   = 0.64 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/10/13 12:44:41
+
+<Source>  D:\steam
+<DestDir> E:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 4,636 MiB
+TotalWrite = 4,636 MiB
+TotalFiles = 1,031 (7)
+TotalSkip  = 15,126 MiB
+SkipFiles  = 10,568 (0)
+TotalTime  = 40.8 sec
+TransRate  = 113.7 MiB/s
+FileRate   = 25.3 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/10/13 16:04:08
+
+<Source>  E:\steam
+<DestDir> D:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 305 MiB
+TotalWrite = 305 MiB
+TotalFiles = 4,658 (158)
+TotalSkip  = 19,755 MiB
+SkipFiles  = 11,486 (0)
+TotalTime  = 58.4 sec
+TransRate  = 5.23 MiB/s
+FileRate   = 79.7 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/10/15 15:41:03
+
+<Source>  L:\reverse\Alipay10.1.75
+<DestDir> Z:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 1,937 MiB
+TotalWrite = 1,937 MiB
+TotalFiles = 2 (1)
+TotalTime  = 19.5 sec
+TransRate  = 99.1 MiB/s
+FileRate   = 0.10 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/10/17 13:58:54
+
+<Source>  L:\reverse\Alipay10.1.75
+<DestDir> Z:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 1,937 MiB
+TotalWrite = 1,937 MiB
+TotalFiles = 2 (1)
+TotalTime  = 20.6 sec
+TransRate  = 93.9 MiB/s
+FileRate   = 0.10 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/10/18 14:12:27
+
+<Source>  C:\sma11case\tools\BaiduNetdisk
+<DestDir> D:\tools\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 16 MiB
+TotalWrite = 16 MiB
+TotalFiles = 23 (5)
+TotalSkip  = 162 MiB
+SkipFiles  = 116 (0)
+TotalTime  = 0.2 sec
+TransRate  = 80.0 MiB/s
+FileRate   = 113.3 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/10/21 17:12:03
+
+<Source>  D:\download\3DMGAME_Ys_VIII_Lacrimosa_of_Dana.UP11.CHS.Green.v2.8.rar
+<DestDir> E:\games\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 17,751 MiB
+TotalWrite = 17,751 MiB
+TotalFiles = 1 (0)
+TotalTime  = 03:35
+TransRate  = 82.2 MiB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/10/28 16:16:56
+
+<Source>  Z:\SeAMobile1_v2.5\Nextgen.i64
+<DestDir> V:\SeAMobile1_v2.5\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 124 MiB
+TotalWrite = 124 MiB
+TotalFiles = 1 (0)
+TotalTime  = 1.3 sec
+TransRate  = 92.5 MiB/s
+FileRate   = 0.75 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/10/28 16:22:11
+
+<Source>  V:\SeAMobile1_v2.5
+<DestDir> M:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 136 MiB
+TotalWrite = 136 MiB
+TotalFiles = 3 (1)
+TotalTime  = 6.8 sec
+TransRate  = 19.9 MiB/s
+FileRate   = 0.44 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/10/29 09:13:18
+
+<Source>  C:\sma11case\tools\v2ray-windows-64
+<DestDir> V:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 60 MiB
+TotalWrite = 60 MiB
+TotalFiles = 83 (5)
+TotalTime  = 0.2 sec
+TransRate  = 322.4 MiB/s
+FileRate   = 443.9 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/10/30 10:22:03
+
+<Source>  M:\SeAMobile1_v2.5
+<DestDir> Z:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 136 MiB
+TotalWrite = 136 MiB
+TotalFiles = 3 (1)
+TotalTime  = 1.4 sec
+TransRate  = 95.8 MiB/s
+FileRate   = 2.11 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/10/30 14:37:18
+
+<Source>  C:\sma11case\tools\v2ray-windows-64\System.Buffers.dll; C:\sma11case\tools\v2ray-windows-64\System.Memory.dll; C:\sma11case\tools\v2ray-windows-64\System.Runtime.CompilerServices.Unsafe.dll; C:\sma11case\tools\v2ray-windows-64\v2ctl.exe; C:\sma11case\tools\v2ray-windows-64\v2ctl.exe.sig; C:\sma11case\tools\v2ray-windows-64\v2ray.exe; C:\sma11case\tools\v2ray-windows-64\v2ray.exe.sig; C:\sma11case\tools\v2ray-windows-64\v2rayN.exe; C:\sma11case\tools\v2ray-windows-64\v2rayUpgrade.exe; C:\sma11case\tools\v2ray-windows-64\vpoint_socks_vmess.json; C:\sma11case\tools\v2ray-windows-64\vpoint_vmess_freedom.json; C:\sma11case\tools\v2ray-windows-64\wv2ray.exe; C:\sma11case\tools\v2ray-windows-64\wv2ray.exe.sig; C:\sma11case\tools\v2ray-windows-64\zxing.dll; C:\sma11case\tools\v2ray-windows-64\zxing.presentation.dll; C:\sma11case\tools\v2ray-windows-64\doc; C:\sma11case\tools\v2ray-windows-64\guiLogs; C:\sma11case\tools\v2ray-windows-64\v2ray_win_temp; C:\sma11case\tools\v2ray-windows-64\zh-Hans; C:\sma11case\tools\v2ray-windows-64\config.json; C:\sma11case\tools\v2ray-windows-64\geoip.dat; C:\sma11case\tools\v2ray-windows-64\geosite.dat; C:\sma11case\tools\v2ray-windows-64\Google.Protobuf.dll; C:\sma11case\tools\v2ray-windows-64\Grpc.Core.Api.dll; C:\sma11case\tools\v2ray-windows-64\Grpc.Core.dll; C:\sma11case\tools\v2ray-windows-64\grpc_csharp_ext.x64.dll; C:\sma11case\tools\v2ray-windows-64\grpc_csharp_ext.x86.dll; C:\sma11case\tools\v2ray-windows-64\guiNConfig.json; C:\sma11case\tools\v2ray-windows-64\netstandard.dll; C:\sma11case\tools\v2ray-windows-64\Newtonsoft.Json.dll; C:\sma11case\tools\v2ray-windows-64\nssm.exe; C:\sma11case\tools\v2ray-windows-64\pac.txt; C:\sma11case\tools\v2ray-windows-64\StatisticLogOverall.json
+<DestDir> D:\Software\NetChrome\tools\v2ray-windows-64\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 60 MiB
+TotalWrite = 60 MiB
+TotalFiles = 85 (4)
+TotalTime  = 0.5 sec
+TransRate  = 110.4 MiB/s
+FileRate   = 155.7 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/11/03 14:57:49
+
+<Source>  Z:\LINE1_v10.17.0\LINE; Z:\LINE1_v10.17.0\LINE.i64; Z:\LINE1_v10.17.0\headers.zip
+<DestDir> M:\LINE\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 2,092 MiB
+TotalWrite = 2,092 MiB
+TotalFiles = 3 (0)
+TotalTime  = 55.0 sec
+TransRate  = 38.0 MiB/s
+FileRate   = 0.05 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/11/04 16:03:26
+
+<Source>  V:\Zalo1_v201003
+<DestDir> M:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 1,413 MiB
+TotalWrite = 1,413 MiB
+TotalFiles = 3 (1)
+TotalTime  = 32.4 sec
+TransRate  = 43.7 MiB/s
+FileRate   = 0.09 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/11/06 13:28:07
+
+<Source>  D:\download\LOL\game\英雄联盟.rar
+<DestDir> G:\download\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 12,786 MiB
+TotalWrite = 12,786 MiB
+TotalFiles = 1 (0)
+TotalTime  = 01:04
+TransRate  = 197.9 MiB/s
+FileRate   = 0.02 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/11/06 13:36:02
+
+<Source>  D:\download\LOL\lol.setup
+<DestDir> G:\download\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 12,369 MiB
+TotalWrite = 12,369 MiB
+TotalFiles = 8 (1)
+TotalTime  = 01:04
+TransRate  = 191.0 MiB/s
+FileRate   = 0.12 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/11/07 13:37:00
+
+<Source>  V:\FMonaid
+<DestDir> F:\windows\tools\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 12 MiB
+TotalWrite = 12 MiB
+TotalFiles = 21 (6)
+TotalTime  = 0.1 sec
+TransRate  = 102.3 MiB/s
+FileRate   = 168.0 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/11/10 17:19:54
+
+<Source>  Z:\Zalo1_v201003\Zalo.i64
+<DestDir> V:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 1,316 MiB
+TotalWrite = 1,316 MiB
+TotalFiles = 1 (0)
+TotalTime  = 13.0 sec
+TransRate  = 101.4 MiB/s
+FileRate   = 0.08 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/11/11 09:42:59
+
+<Source>  M:\Zalo1_v201003
+<DestDir> Z:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 1,413 MiB
+TotalWrite = 1,413 MiB
+TotalFiles = 3 (1)
+TotalTime  = 13.4 sec
+TransRate  = 105.6 MiB/s
+FileRate   = 0.22 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/11/11 11:48:48
+
+<Source>  E:\steam
+<DestDir> D:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 607 MiB
+TotalWrite = 607 MiB
+TotalFiles = 460 (25)
+TotalSkip  = 19,685 MiB
+SkipFiles  = 15,812 (0)
+TotalTime  = 01:34
+TransRate  = 6.42 MiB/s
+FileRate   = 4.86 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/11/12 16:09:49
+
+<Source>  F:\windows\tools\WinRAR_v5.01_x64; "F:\windows\tools\Beyond Compare 4"; F:\windows\tools\BOOTICE_v1.32; F:\windows\tools\CrystalDiskInfo; F:\windows\tools\DamnNfoViewer; F:\windows\tools\DB.Browser.for.SQLite-3.12.0-win64; F:\windows\tools\depends22_x86; F:\windows\tools\DiskGenius_v5.3.0.1066; F:\windows\tools\Dism++10.1.1000.90B; F:\windows\tools\drive_tools; "F:\windows\tools\FileZilla Client v3.41.2.0"; F:\windows\tools\FMonaid; F:\windows\tools\freeime; F:\windows\tools\haproxy-2.2; F:\windows\tools\HexWorkshop_v6.8.0.5419; F:\windows\tools\IDA_v7.0.170914_english; F:\windows\tools\pfmap-win; F:\windows\tools\rufus-3.11p; F:\windows\tools\socat-1.7.2.4g; F:\windows\tools\sokit-1.3-win32-chs; F:\windows\tools\startmgr; F:\windows\tools\SumatraPDF-2.4; F:\windows\tools\SyncTime; F:\windows\tools\Win7; F:\windows\tools\winbox
+<DestDir> Z:\sma11case\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 719 MiB
+TotalWrite = 719 MiB
+TotalFiles = 7,039 (504)
+TotalSkip  = 2.2 MiB
+SkipFiles  = 36 (0)
+TotalTime  = 01:05
+TransRate  = 11.0 MiB/s
+FileRate   = 107.3 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/11/12 16:45:05
+
+<Source>  M:\Zalo1_v201003
+<DestDir> Z:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 1,413 MiB
+TotalWrite = 1,413 MiB
+TotalFiles = 3 (1)
+TotalTime  = 13.6 sec
+TransRate  = 104.0 MiB/s
+FileRate   = 0.22 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/11/13 09:51:21
+
+<Source>  M:\Zalo1_v201003
+<DestDir> Z:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 1,413 MiB
+TotalWrite = 1,413 MiB
+TotalFiles = 3 (1)
+TotalTime  = 13.0 sec
+TransRate  = 108.9 MiB/s
+FileRate   = 0.23 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/11/13 11:48:21
+
+<Source>  Z:\Zalo1_v201003\Zalo; Z:\Zalo1_v201003\Zalo.i64
+<DestDir> V:\ssss\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 1,407 MiB
+TotalWrite = 1,407 MiB
+TotalFiles = 2 (0)
+TotalTime  = 12.7 sec
+TransRate  = 111.0 MiB/s
+FileRate   = 0.16 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/11/19 15:24:49
+
+<Source>  D:\Software\NetChrome\Chrome
+<DestDir> Z:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 429 MiB
+TotalWrite = 429 MiB
+TotalFiles = 2,253 (564)
+TotalTime  = 15.6 sec
+TransRate  = 27.5 MiB/s
+FileRate   = 144.1 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/11/20 14:17:58
+
+<Source>  Z:\WhatsApp2.20.110\whatsApp.i64
+<DestDir> M:\WhatsApp2.20.110\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 246 MiB
+TotalWrite = 246 MiB
+TotalFiles = 1 (0)
+TotalTime  = 5.9 sec
+TransRate  = 41.8 MiB/s
+FileRate   = 0.17 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/11/20 17:02:01
+
+<Source>  Z:\WhatsApp2.20.110\Core; Z:\WhatsApp2.20.110\Core.i64
+<DestDir> M:\WhatsApp2.20.110\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 205 MiB
+TotalWrite = 205 MiB
+TotalFiles = 2 (0)
+TotalTime  = 4.9 sec
+TransRate  = 42.2 MiB/s
+FileRate   = 0.41 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/11/26 10:56:23
+
+<Source>  V:\LINE9.16.1
+<DestDir> M:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 1,751 MiB
+TotalWrite = 1,751 MiB
+TotalFiles = 2 (1)
+TotalTime  = 44.5 sec
+TransRate  = 39.3 MiB/s
+FileRate   = 0.04 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/11/27 13:31:00
+
+<Source>  Z:\mw64
+<DestDir> V:\
+<Command> Move (Overwrite)
+-------------------------------------------------
+
+TotalRead  = 438 MiB
+TotalWrite = 438 MiB
+TotalFiles = 13,207 (334)
+TotalDel   = 438 MiB
+DelFiles   = 13,207 (334)
+TotalTime  = 02:48
+TransRate  = 2.60 MiB/s
+FileRate   = 78.3 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/11/27 15:59:03
+
+<Source>  R:\babun-1.2.0\.babun\home_common\.gitconfig; R:\babun-1.2.0\.babun\home_common\.inputrc; R:\babun-1.2.0\.babun\home_common\.minttyrc; R:\babun-1.2.0\.babun\home_common\.profile; R:\babun-1.2.0\.babun\home_common\bin; R:\babun-1.2.0\.babun\home_common\.viminfo; R:\babun-1.2.0\.babun\home_common\.vimrc; R:\babun-1.2.0\.babun\home_common\.wget-hsts; R:\babun-1.2.0\.babun\home_common\.zcompdump; R:\babun-1.2.0\.babun\home_common\.zshrc; R:\babun-1.2.0\.babun\home_common\.zsh-update; R:\babun-1.2.0\.babun\home_common\.gnupg; R:\babun-1.2.0\.babun\home_common\.local; R:\babun-1.2.0\.babun\home_common\.oh-my-zsh; R:\babun-1.2.0\.babun\home_common\.pact; R:\babun-1.2.0\.babun\home_common\.ssh; R:\babun-1.2.0\.babun\home_common\.subversion; R:\babun-1.2.0\.babun\home_common\.vim; R:\babun-1.2.0\.babun\home_common\Desktop; R:\babun-1.2.0\.babun\home_common\WinHome; R:\babun-1.2.0\.babun\home_common\.zcompdump-Qiu-5.5.1; R:\babun-1.2.0\.babun\home_common\.babunrc; R:\babun-1.2.0\.babun\home_common\.bash_history; R:\babun-1.2.0\.babun\home_common\.bash_profile; R:\babun-1.2.0\.babun\home_common\.bashrc; R:\babun-1.2.0\.babun\home_common\config
+<DestDir> V:\mm\msys64\home\admin1\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 32 MiB
+TotalWrite = 32 MiB
+TotalFiles = 689 (243)
+TotalTime  = 1.0 sec
+TransRate  = 31.4 MiB/s
+FileRate   = 668.9 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/11/27 16:05:31
+
+<Source>  R:\babun-1.2.0\.babun\home_common
+<DestDir> V:\mm\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 32 MiB
+TotalWrite = 32 MiB
+TotalFiles = 689 (244)
+TotalTime  = 1.0 sec
+TransRate  = 32.9 MiB/s
+FileRate   = 700.9 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/11/27 17:56:56
+
+<Source>  V:\msys64-new
+<DestDir> D:\download\
+<Command> Move (Overwrite)
+-------------------------------------------------
+
+TotalRead  = 3,137 MiB
+TotalWrite = 3,137 MiB
+TotalFiles = 101,421 (3,856)
+TotalDel   = 3,137 MiB
+DelFiles   = 101,421 (3,856)
+TotalTime  = 24:13
+TransRate  = 2.16 MiB/s
+FileRate   = 69.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/12/08 17:27:47
+
+<Source>  E:\steam
+<DestDir> D:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 14 MiB
+TotalWrite = 14 MiB
+TotalFiles = 180 (0)
+TotalSkip  = 20,279 MiB
+SkipFiles  = 16,099 (0)
+TotalTime  = 3.7 sec
+TransRate  = 25.0 MiB/s
+FileRate   = 312.0 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/12/09 14:06:31
+
+<Source>  N:\work\CMCC5.7.0
+<DestDir> V:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 157 MiB
+TotalWrite = 157 MiB
+TotalFiles = 9,492 (76)
+TotalTime  = 13.5 sec
+TransRate  = 11.9 MiB/s
+FileRate   = 715.0 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/12/12 10:50:27
+
+<Source>  V:\msys2\home_common
+<DestDir> D:\download\msys64-new\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 0.2 MiB
+TotalWrite = 0.2 MiB
+TotalFiles = 30 (11)
+TotalSkip  = 32 MiB
+SkipFiles  = 648 (0)
+TotalTime  = 0.3 sec
+TransRate  = 3.11 MiB/s
+FileRate   = 384.6 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/12/12 10:51:14
+
+<Source>  V:\msys2\home_common
+<DestDir> D:\download\msys64-new\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 32 MiB
+TotalWrite = 32 MiB
+TotalFiles = 678 (239)
+TotalTime  = 0.6 sec
+TransRate  = 57.4 MiB/s
+FileRate   = 1,206 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/12/14 09:34:39
+
+<Source>  C:\sma11case\tools\FMonaid
+<DestDir> V:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 76 MiB
+TotalWrite = 76 MiB
+TotalFiles = 25 (6)
+TotalTime  = 0.2 sec
+TransRate  = 350.1 MiB/s
+FileRate   = 114.2 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/12/14 15:10:05
+
+<Source>  C:\sma11case\tools\FMonaid\uninstall.cmd; C:\sma11case\tools\FMonaid\wtsapi32.dll; C:\sma11case\tools\FMonaid\xmdb.dll; C:\sma11case\tools\FMonaid\xsrvc.dll; C:\sma11case\tools\FMonaid\dat; C:\sma11case\tools\FMonaid\iplib; C:\sma11case\tools\FMonaid\logip; C:\sma11case\tools\FMonaid\report; C:\sma11case\tools\FMonaid\code.reg; C:\sma11case\tools\FMonaid\FMonaid.exe; C:\sma11case\tools\FMonaid\FMonaid.exe.bak; C:\sma11case\tools\FMonaid\FMonAidService.exe; C:\sma11case\tools\FMonaid\perfl.dll; C:\sma11case\tools\FMonaid\sedll.dll; C:\sma11case\tools\FMonaid\setup.cmd
+<DestDir> F:\windows\tools\FMonaid\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 3.4 MiB
+TotalWrite = 3.4 MiB
+TotalFiles = 9 (0)
+TotalSkip  = 10 MiB
+SkipFiles  = 14 (0)
+TotalTime  = 0.0 sec
+TransRate  = 73.1 MiB/s
+FileRate   = 191.5 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/12/14 15:52:11
+
+<Source>  V:\msys2
+<DestDir> F:\windows\
+<Command> Move (Overwrite)
+-------------------------------------------------
+
+TotalRead  = 1,063 MiB
+TotalWrite = 1,063 MiB
+TotalFiles = 26,324 (2,615)
+TotalDel   = 1,063 MiB
+DelFiles   = 26,324 (2,616)
+TotalTime  = 05:46
+TransRate  = 3.07 MiB/s
+FileRate   = 75.9 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/12/15 09:05:08
+
+<Source>  R:\babun-1.2.0\.babun\msys64\z; R:\babun-1.2.0\.babun\msys64\a; R:\babun-1.2.0\.babun\msys64\b; R:\babun-1.2.0\.babun\msys64\c; R:\babun-1.2.0\.babun\msys64\d; R:\babun-1.2.0\.babun\msys64\e; R:\babun-1.2.0\.babun\msys64\f; R:\babun-1.2.0\.babun\msys64\g; R:\babun-1.2.0\.babun\msys64\h; R:\babun-1.2.0\.babun\msys64\i; R:\babun-1.2.0\.babun\msys64\j; R:\babun-1.2.0\.babun\msys64\k; R:\babun-1.2.0\.babun\msys64\l; R:\babun-1.2.0\.babun\msys64\m; R:\babun-1.2.0\.babun\msys64\n; R:\babun-1.2.0\.babun\msys64\o; R:\babun-1.2.0\.babun\msys64\p; R:\babun-1.2.0\.babun\msys64\q; R:\babun-1.2.0\.babun\msys64\r; R:\babun-1.2.0\.babun\msys64\s; R:\babun-1.2.0\.babun\msys64\t; R:\babun-1.2.0\.babun\msys64\u; R:\babun-1.2.0\.babun\msys64\v; R:\babun-1.2.0\.babun\msys64\w; R:\babun-1.2.0\.babun\msys64\x; R:\babun-1.2.0\.babun\msys64\y
+<DestDir> F:\windows\msys2\msys2\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 26 (0)
+TotalTime  = 0.1 sec
+TransRate  = 0.01 MiB/s
+FileRate   = 565.2 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/12/19 09:20:35
+
+<Source>  D:\download\msys64-new\msys64\mingw64\x86_64-w64-mingw32
+<DestDir> F:\windows\msys2\tools\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 173 MiB
+TotalWrite = 173 MiB
+TotalFiles = 2,649 (16)
+TotalTime  = 3.2 sec
+TransRate  = 54.6 MiB/s
+FileRate   = 832.2 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/12/29 16:14:28
+
+<Source>  D:\download\Terminator.终结者; D:\download\The.Godfather.教父; D:\download\The.Matrix.骇客帝国
+<DestDir> H:\New folder\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 165,870 MiB
+TotalWrite = 165,870 MiB
+TotalFiles = 32 (19)
+TotalTime  = 02:34:58
+TransRate  = 17.8 MiB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2020/12/30 09:09:24
+
+<Source>  T:\totalcmd; T:\total_commander.cmd; T:\upload_to_server.sh
+<DestDir> V:\totalcmd\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+SetEndOfFile(There is not enough space on the disk.112) : V:\totalcmd\totalcmd\Tools\IDE\CLion 2019.1.4\plugins\python\lib\python.jar
+
+TotalRead  = 11,650 MiB
+TotalWrite = 11,648 MiB
+TotalFiles = 102,863 (6,802)
+TotalTime  = 21:52
+TransRate  = 9.07 MiB/s
+FileRate   = 80.1 files/s
+
+Result : (ErrFiles : 2 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2021/01/26 09:55:13
+
+<Source>  D:\download\CentOS-7-x86_64-DVD-2003.iso; D:\download\Fedora-Server-dvd-x86_64-30-1.2.iso; F:\windows\microsoft.windows.images\7601.24214.180801-1700.win7sp1_ldr_escrow_CLIENT_ULTIMATE_x64FRE_en-us.iso
+<DestDir> I:\system.images\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 13,194 MiB
+TotalWrite = 13,194 MiB
+TotalFiles = 3 (0)
+TotalTime  = 06:32
+TransRate  = 33.6 MiB/s
+FileRate   = 0.01 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2021/01/26 10:01:45
+
+<Source>  D:\download\cn_windows_10_enterprise_ltsc_2019_x64_dvd_9c09ff24.iso
+<DestDir> I:\system.images\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 4,271 MiB
+TotalWrite = 4,271 MiB
+TotalFiles = 1 (0)
+TotalTime  = 02:06
+TransRate  = 33.6 MiB/s
+FileRate   = 0.01 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2021/01/26 10:23:34
+
+<Source>  F:\windows\tools; F:\windows\drivers; F:\windows\msys2
+<DestDir> I:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 3,266 MiB
+TotalWrite = 3,266 MiB
+TotalFiles = 40,567 (4,373)
+TotalTime  = 04:57
+TransRate  = 11.0 MiB/s
+FileRate   = 136.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2021/01/28 15:24:41
+
+<Source>  D:\backup; D:\Software
+<DestDir> V:\New folder\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 5,384 MiB
+TotalWrite = 5,384 MiB
+TotalFiles = 4,068 (873)
+TotalTime  = 41.5 sec
+TransRate  = 129.8 MiB/s
+FileRate   = 98.1 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2021/01/28 15:25:48
+
+<Source>  "V:\New folder\backup"; "V:\New folder\Software"
+<DestDir> D:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 5,384 MiB
+TotalWrite = 5,384 MiB
+TotalFiles = 4,068 (873)
+TotalTime  = 34.5 sec
+TransRate  = 156.4 MiB/s
+FileRate   = 118.2 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2021/02/01 09:27:36
+
+<Source>  V:\VMware.Fusion.Professional.v11.5.5.MACOSX.Incl.Keygen-AMPED
+<DestDir> Z:\share\qq\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 602 MiB
+TotalWrite = 602 MiB
+TotalFiles = 3 (2)
+TotalTime  = 7.1 sec
+TransRate  = 84.6 MiB/s
+FileRate   = 0.42 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2021/02/01 09:28:07
+
+<Source>  F:\windows\microsoft.windows.images\7601.24214.180801-1700.win7sp1_ldr_escrow_CLIENT_ULTIMATE_x64FRE_en-us.iso
+<DestDir> Z:\share\qq\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 5,604 MiB
+TotalWrite = 5,604 MiB
+TotalFiles = 1 (0)
+TotalTime  = 01:09
+TransRate  = 80.3 MiB/s
+FileRate   = 0.01 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2021/02/01 09:32:46
+
+<Source>  D:\backup\cn_windows_10_enterprise_ltsc_2019_x64_dvd_9c09ff24.iso
+<DestDir> Z:\share\qq\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 4,271 MiB
+TotalWrite = 4,271 MiB
+TotalFiles = 1 (0)
+TotalTime  = 49.4 sec
+TransRate  = 86.4 MiB/s
+FileRate   = 0.02 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2021/02/01 10:45:15
+
+<Source>  M:\Alipay_v10.1.88.6000
+<DestDir> V:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 2,185 MiB
+TotalWrite = 2,185 MiB
+TotalFiles = 3 (1)
+TotalTime  = 21.0 sec
+TransRate  = 104.2 MiB/s
+FileRate   = 0.14 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2021/02/01 10:49:56
+
+<Source>  L:\reverse\Alipay10.1.75
+<DestDir> Y:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 1,937 MiB
+TotalWrite = 1,937 MiB
+TotalFiles = 2 (1)
+TotalTime  = 22.0 sec
+TransRate  = 88.2 MiB/s
+FileRate   = 0.09 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2021/02/01 14:46:02
+
+<Source>  D:\download\vmware-win7.rar
+<DestDir> F:\windows\microsoft.windows.images\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 4,836 MiB
+TotalWrite = 4,836 MiB
+TotalFiles = 1 (0)
+TotalTime  = 28.8 sec
+TransRate  = 167.9 MiB/s
+FileRate   = 0.03 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2021/02/01 14:46:32
+
+<Source>  D:\backup\cn_windows_10_enterprise_ltsc_2019_x64_dvd_9c09ff24.iso
+<DestDir> F:\windows\microsoft.windows.images\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 4,271 MiB
+TotalWrite = 4,271 MiB
+TotalFiles = 1 (0)
+TotalTime  = 01:01
+TransRate  = 69.0 MiB/s
+FileRate   = 0.02 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2021/02/02 13:13:47
+
+<Source>  F:\windows\tools
+<DestDir> H:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 1,909 MiB
+TotalWrite = 1,909 MiB
+TotalFiles = 11,793 (1,480)
+TotalTime  = 07:48
+TransRate  = 4.08 MiB/s
+FileRate   = 25.2 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2021/02/02 13:21:36
+
+<Source>  F:\windows\msys2
+<DestDir> H:\windows\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 1,135 MiB
+TotalWrite = 1,135 MiB
+TotalFiles = 28,766 (2,892)
+TotalTime  = 13:56
+TransRate  = 1.36 MiB/s
+FileRate   = 34.4 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2021/02/02 13:35:32
+
+<Source>  D:\download\PETools\PETools
+<DestDir> H:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 762 MiB
+TotalWrite = 762 MiB
+TotalFiles = 16 (17)
+TotalTime  = 25.1 sec
+TransRate  = 30.3 MiB/s
+FileRate   = 0.64 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2021/02/02 14:00:54
+
+<Source>  F:\windows\tools\v2ray-windows-64
+<DestDir> C:\sma11case\tools\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 65 MiB
+TotalWrite = 65 MiB
+TotalFiles = 35 (0)
+TotalSkip  = 0.0 MiB
+SkipFiles  = 6 (0)
+TotalTime  = 0.6 sec
+TransRate  = 107.3 MiB/s
+FileRate   = 57.6 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2021/02/02 16:43:26
+
+<Source>  D:\download\Catch.Me.If.You.Can.2002.1080p.BluRay.H264.AAC-RARBG.猫鼠游戏
+<DestDir> I:\movies\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 2,748 MiB
+TotalWrite = 2,748 MiB
+TotalFiles = 4 (2)
+TotalTime  = 01:41
+TransRate  = 27.0 MiB/s
+FileRate   = 0.04 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2021/02/02 17:47:41
+
+<Source>  F:\windows\msys2
+<DestDir> D:\Software\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 1,135 MiB
+TotalWrite = 1,135 MiB
+TotalFiles = 28,766 (2,892)
+TotalTime  = 04:14
+TransRate  = 4.47 MiB/s
+FileRate   = 113.4 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2021/02/03 10:21:59
+
+<Source>  D:\download\movies\《宝丽金真开心精选320K》4CD全52首MP3音乐打包免费下载498MB[我的打包分享mydbfx.com]
+<DestDir> I:\movies\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 506 MiB
+TotalWrite = 506 MiB
+TotalFiles = 67 (6)
+TotalTime  = 03:38
+TransRate  = 2.32 MiB/s
+FileRate   = 0.31 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2021/02/05 13:14:50
+
+<Source>  F:\windows\microsoft.windows.images\HEU_KMS_Activator_v21.0.0.zip; F:\windows\microsoft.windows.images\7601.24214.180801-1700.win7sp1_ldr_escrow_CLIENT_ULTIMATE_x64FRE_en-us.iso; F:\windows\microsoft.windows.images\cn_windows_10_enterprise_ltsc_2019_x64_dvd_9c09ff24.iso
+<DestDir> H:\microsoft.windows.images\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 9,883 MiB
+TotalWrite = 9,883 MiB
+TotalFiles = 3 (0)
+TotalTime  = 05:16
+TransRate  = 31.2 MiB/s
+FileRate   = 0.01 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2021/02/05 13:20:06
+
+<Source>  F:\windows\tools; F:\windows\msys2
+<DestDir> H:\windows\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 3,070 MiB
+TotalWrite = 3,070 MiB
+TotalFiles = 40,637 (4,381)
+TotalTime  = 23:00
+TransRate  = 2.23 MiB/s
+FileRate   = 29.5 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2021/02/05 13:43:07
+
+<Source>  V:\linux
+<DestDir> H:\
+<Command> Move (Overwrite)
+-------------------------------------------------
+
+TotalRead  = 35 MiB
+TotalWrite = 35 MiB
+TotalFiles = 1 (1)
+TotalDel   = 35 MiB
+DelFiles   = 1 (1)
+TotalTime  = 0.9 sec
+TransRate  = 40.5 MiB/s
+FileRate   = 1.14 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2021/02/22 14:16:51
+
+<Source>  "D:\download\Install macOS High Sierra 10.13.6.dmg"
+<DestDir> F:\macos\setup\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 4,998 MiB
+TotalWrite = 4,998 MiB
+TotalFiles = 1 (0)
+TotalTime  = 25.6 sec
+TransRate  = 195.0 MiB/s
+FileRate   = 0.04 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2021/02/22 14:25:18
+
+<Source>  D:\download\Command_Line_Tools_macOS_10.13_for_Xcode_10.1.dmg
+<DestDir> F:\macos\setup\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalSkip  = 186 MiB
+SkipFiles  = 1 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MiB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2021/02/26 15:05:08
+
+<Source>  Z:\Douyin_v14.7.1\Aweme.i64
+<DestDir> V:\Douyin_v14.7.1\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 3,152 MiB
+TotalWrite = 3,152 MiB
+TotalFiles = 1 (0)
+TotalTime  = 29.3 sec
+TransRate  = 107.6 MiB/s
+FileRate   = 0.03 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2021/02/26 15:05:48
+
+<Source>  V:\Douyin_v14.7.1
+<DestDir> M:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 3,378 MiB
+TotalWrite = 3,378 MiB
+TotalFiles = 3 (1)
+TotalTime  = 01:25
+TransRate  = 39.6 MiB/s
+FileRate   = 0.04 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2021/03/08 15:59:02
+
+<Source>  V:\DG5301066_x64\DiskGenius\Options.ini; V:\DG5301066_x64\DiskGenius\releasenote.txt; V:\DG5301066_x64\DiskGenius\SDL2.dll; V:\DG5301066_x64\DiskGenius\swresample-3.dll; V:\DG5301066_x64\DiskGenius\swscale-5.dll; V:\DG5301066_x64\DiskGenius\VPreview.dll; V:\DG5301066_x64\DiskGenius\dos; V:\DG5301066_x64\DiskGenius\avcodec-58.dll; V:\DG5301066_x64\DiskGenius\avdevice-58.dll; V:\DG5301066_x64\DiskGenius\avfilter-7.dll; V:\DG5301066_x64\DiskGenius\avformat-58.dll; V:\DG5301066_x64\DiskGenius\avutil-56.dll; V:\DG5301066_x64\DiskGenius\DGFileViewer.exe; V:\DG5301066_x64\DiskGenius\DiskGenius.exe; V:\DG5301066_x64\DiskGenius\dsoframer.ocx; V:\DG5301066_x64\DiskGenius\HdrwVdi.dll; V:\DG5301066_x64\DiskGenius\HdrwVhd.dll; V:\DG5301066_x64\DiskGenius\HdrwVhdx.dll; V:\DG5301066_x64\DiskGenius\Hdrwvm.dll; V:\DG5301066_x64\DiskGenius\Letarm.dll; V:\DG5301066_x64\DiskGenius\libde265.dll; V:\DG5301066_x64\DiskGenius\libhefc.dll; V:\DG5301066_x64\DiskGenius\libwim.dll; V:\DG5301066_x64\DiskGenius\LSlM.dll; V:\DG5301066_x64\DiskGenius\msimg32.dll; V:\DG5301066_x64\DiskGenius\OfflineReg.exe
+<DestDir> V:\DiskGenius_v5.3.0.1066\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 65 MiB
+TotalWrite = 65 MiB
+TotalFiles = 26 (0)
+TotalSkip  = 0.1 MiB
+SkipFiles  = 10 (0)
+TotalTime  = 0.2 sec
+TransRate  = 299.3 MiB/s
+FileRate   = 119.3 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2021/03/08 16:04:35
+
+<Source>  V:\DiskGenius_v5.3.0.1066\SDL2.dll; V:\DiskGenius_v5.3.0.1066\swresample-3.dll; V:\DiskGenius_v5.3.0.1066\swscale-5.dll; V:\DiskGenius_v5.3.0.1066\unins000.dat; V:\DiskGenius_v5.3.0.1066\unins000.exe; V:\DiskGenius_v5.3.0.1066\unins000.msg; V:\DiskGenius_v5.3.0.1066\VPreview.dll; V:\DiskGenius_v5.3.0.1066\Crack; V:\DiskGenius_v5.3.0.1066\dos; V:\DiskGenius_v5.3.0.1066\avcodec-58.dll; V:\DiskGenius_v5.3.0.1066\avdevice-58.dll; V:\DiskGenius_v5.3.0.1066\avfilter-7.dll; V:\DiskGenius_v5.3.0.1066\avformat-58.dll; V:\DiskGenius_v5.3.0.1066\avutil-56.dll; V:\DiskGenius_v5.3.0.1066\DGFileViewer.exe; V:\DiskGenius_v5.3.0.1066\DiskGenius.exe; V:\DiskGenius_v5.3.0.1066\dsoframer.ocx; V:\DiskGenius_v5.3.0.1066\Except_2616; V:\DiskGenius_v5.3.0.1066\Hdrwvdi.dll; V:\DiskGenius_v5.3.0.1066\Hdrwvhd.dll; V:\DiskGenius_v5.3.0.1066\Hdrwvhdx.dll; V:\DiskGenius_v5.3.0.1066\Hdrwvm.dll; V:\DiskGenius_v5.3.0.1066\libde265.dll; V:\DiskGenius_v5.3.0.1066\libhefc.dll; V:\DiskGenius_v5.3.0.1066\libwim.dll; V:\DiskGenius_v5.3.0.1066\license_DG_En.txt; V:\DiskGenius_v5.3.0.1066\license_DG_Jp.txt; V:\DiskGenius_v5.3.0.1066\msimg32.dll; V:\DiskGenius_v5.3.0.1066\OfflineReg.exe; V:\DiskGenius_v5.3.0.1066\Options.ini; V:\DiskGenius_v5.3.0.1066\releasenote.txt
+<DestDir> V:\DiskGenius\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 61 MiB
+TotalWrite = 61 MiB
+TotalFiles = 37 (3)
+TotalSkip  = 0.1 MiB
+SkipFiles  = 8 (0)
+TotalTime  = 0.3 sec
+TransRate  = 219.6 MiB/s
+FileRate   = 131.7 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2021/03/11 10:12:15
+
+<Source>  V:\v2rayN-Core\v2rayN-Core\LICENSE; V:\v2rayN-Core\v2rayN-Core\netstandard.dll; V:\v2rayN-Core\v2rayN-Core\Newtonsoft.Json.dll; V:\v2rayN-Core\v2rayN-Core\README.md; V:\v2rayN-Core\v2rayN-Core\System.Buffers.dll; V:\v2rayN-Core\v2rayN-Core\System.Memory.dll; V:\v2rayN-Core\v2rayN-Core\System.Runtime.CompilerServices.Unsafe.dll; V:\v2rayN-Core\v2rayN-Core\v2ctl.exe; V:\v2rayN-Core\v2rayN-Core\v2ctl.exe.sig; V:\v2rayN-Core\v2rayN-Core\v2ray.exe; V:\v2rayN-Core\v2rayN-Core\v2ray.exe.sig; V:\v2rayN-Core\v2rayN-Core\v2rayN.exe; V:\v2rayN-Core\v2rayN-Core\v2rayUpgrade.exe; V:\v2rayN-Core\v2rayN-Core\vpoint_socks_vmess.json; V:\v2rayN-Core\v2rayN-Core\vpoint_vmess_freedom.json; V:\v2rayN-Core\v2rayN-Core\wv2ray.exe; V:\v2rayN-Core\v2rayN-Core\wv2ray.exe.sig; V:\v2rayN-Core\v2rayN-Core\xray.exe; V:\v2rayN-Core\v2rayN-Core\zxing.dll; V:\v2rayN-Core\v2rayN-Core\zxing.presentation.dll; V:\v2rayN-Core\v2rayN-Core\doc; V:\v2rayN-Core\v2rayN-Core\zh-Hans; V:\v2rayN-Core\v2rayN-Core\config.json; V:\v2rayN-Core\v2rayN-Core\geoip.dat; V:\v2rayN-Core\v2rayN-Core\geosite.dat; V:\v2rayN-Core\v2rayN-Core\Google.Protobuf.dll; V:\v2rayN-Core\v2rayN-Core\Grpc.Core.Api.dll; V:\v2rayN-Core\v2rayN-Core\Grpc.Core.dll; V:\v2rayN-Core\v2rayN-Core\grpc_csharp_ext.x64.dll; V:\v2rayN-Core\v2rayN-Core\grpc_csharp_ext.x86.dll
+<DestDir> C:\sma11case\tools\v2ray-windows-64\
+<Command> Move (Overwrite)
+-------------------------------------------------
+
+TotalRead  = 76 MiB
+TotalWrite = 76 MiB
+TotalFiles = 30 (0)
+TotalDel   = 76 MiB
+DelFiles   = 30 (2)
+TotalTime  = 0.4 sec
+TransRate  = 182.0 MiB/s
+FileRate   = 71.3 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2021/03/11 10:12:26
+
+<Source>  V:\v2rayN\v2rayN\zxing.presentation.dll; V:\v2rayN\v2rayN\zh-Hans; V:\v2rayN\v2rayN\Google.Protobuf.dll; V:\v2rayN\v2rayN\Grpc.Core.Api.dll; V:\v2rayN\v2rayN\Grpc.Core.dll; V:\v2rayN\v2rayN\grpc_csharp_ext.x64.dll; V:\v2rayN\v2rayN\grpc_csharp_ext.x86.dll; V:\v2rayN\v2rayN\netstandard.dll; V:\v2rayN\v2rayN\Newtonsoft.Json.dll; V:\v2rayN\v2rayN\System.Buffers.dll; V:\v2rayN\v2rayN\System.Memory.dll; V:\v2rayN\v2rayN\System.Runtime.CompilerServices.Unsafe.dll; V:\v2rayN\v2rayN\v2rayN.exe; V:\v2rayN\v2rayN\v2rayUpgrade.exe; V:\v2rayN\v2rayN\zxing.dll
+<DestDir> C:\sma11case\tools\v2ray-windows-64\
+<Command> Move (Overwrite)
+-------------------------------------------------
+
+TotalRead  = 12 MiB
+TotalWrite = 12 MiB
+TotalFiles = 15 (0)
+TotalDel   = 12 MiB
+DelFiles   = 15 (1)
+TotalTime  = 0.1 sec
+TransRate  = 133.9 MiB/s
+FileRate   = 159.6 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2021/03/11 10:17:03
+
+<Source>  C:\sma11case\tools\v2ray-windows-64
+<DestDir> D:\Software\NetChrome\tools\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 97 MiB
+TotalWrite = 97 MiB
+TotalFiles = 135 (5)
+TotalTime  = 1.0 sec
+TransRate  = 104.4 MiB/s
+FileRate   = 144.2 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2021/03/14 11:09:34
+
+<Source>  V:\Xianyu_v6.9.20
+<DestDir> M:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 1,258 MiB
+TotalWrite = 1,258 MiB
+TotalFiles = 3 (1)
+TotalTime  = 39.7 sec
+TransRate  = 31.7 MiB/s
+FileRate   = 0.08 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2021/03/16 15:27:10
+
+<Source>  Z:\xy\Runner.i64; Z:\xy\Runner
+<DestDir> M:\Xianyu_v6.9.20\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 1,250 MiB
+TotalWrite = 1,250 MiB
+TotalFiles = 2 (0)
+TotalTime  = 35.7 sec
+TransRate  = 35.1 MiB/s
+FileRate   = 0.06 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2021/03/16 15:37:58
+
+<Source>  Z:\xy\Flutter.i64; Z:\xy\Flutter
+<DestDir> M:\Xianyu_v6.9.20\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 77 MiB
+TotalWrite = 77 MiB
+TotalFiles = 2 (0)
+TotalTime  = 2.2 sec
+TransRate  = 35.8 MiB/s
+FileRate   = 0.93 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2021/03/19 14:44:18
+
+<Source>  Z:\Alipay10.2.13\GenieForAlipay; Z:\Alipay10.2.13\AlipayWallet.i64; Z:\Alipay10.2.13\ExtensionFoundation.i64; Z:\Alipay10.2.13\GenieForAlipay.i64; Z:\Alipay10.2.13\AlipayWallet; Z:\Alipay10.2.13\ExtensionFoundation
+<DestDir> M:\Alipay_v10.2.13\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 2,641 MiB
+TotalWrite = 2,641 MiB
+TotalFiles = 6 (0)
+TotalTime  = 01:15
+TransRate  = 34.8 MiB/s
+FileRate   = 0.08 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2021/03/20 09:38:36
+
+<Source>  Z:\ap\GenieForAlipay.i64; Z:\ap\AlipayWallet; Z:\ap\ExtensionFoundation; Z:\ap\GenieForAlipay; Z:\ap\AlipayWallet.i64; Z:\ap\ExtensionFoundation.i64
+<DestDir> M:\Alipay_v10.2.13\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 2,641 MiB
+TotalWrite = 2,641 MiB
+TotalFiles = 6 (0)
+TotalTime  = 01:04
+TransRate  = 40.9 MiB/s
+FileRate   = 0.09 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2021/03/20 12:37:08
+
+<Source>  D:\download\Zack.Snyders.Justice.League.2021.2160p.HMAX.WEB-DL.DDP5.1.Atmos.DV.x265-MZABI
+<DestDir> Y:\share\qq\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 32,434 MiB
+TotalWrite = 32,434 MiB
+TotalFiles = 2 (1)
+TotalTime  = 06:35
+TransRate  = 82.1 MiB/s
+FileRate   = 0.01 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2021/03/20 16:16:06
+
+<Source>  Z:\ap\AlipayWallet.i64
+<DestDir> M:\Alipay_v10.2.13\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 2,470 MiB
+TotalWrite = 2,470 MiB
+TotalFiles = 1 (0)
+TotalTime  = 01:01
+TransRate  = 40.4 MiB/s
+FileRate   = 0.02 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2021/03/22 14:32:52
+
+<Source>  D:\download\CLion-2020.3.3.win
+<DestDir> C:\sma11case\tools\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 1,403 MiB
+TotalWrite = 1,403 MiB
+TotalFiles = 12,926 (964)
+TotalTime  = 14.0 sec
+TransRate  = 102.2 MiB/s
+FileRate   = 941.6 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2022/02/28 12:26:30
+
+<Source>  D:\download
+<DestDir> E:\
+<Command> Move (Overwrite)
+-------------------------------------------------
+
+TotalRead  = 361 MiB
+TotalWrite = 361 MiB
+TotalFiles = 23 (6)
+TotalDel   = 361 MiB
+DelFiles   = 23 (6)
+TotalTime  = 2.0 sec
+TransRate  = 176.7 MiB/s
+FileRate   = 11.3 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2022/03/01 11:00:27
+
+<Source>  D:\sma11case
+<DestDir> E:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 12,996 MiB
+TotalWrite = 12,996 MiB
+TotalFiles = 158 (107)
+TotalTime  = 01:06
+TransRate  = 195.1 MiB/s
+FileRate   = 2.37 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2022/03/01 11:54:43
+
+<Source>  F:\windows\msys2
+<DestDir> D:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 4,972 MiB
+TotalWrite = 4,972 MiB
+TotalFiles = 140,974 (8,044)
+TotalTime  = 01:16
+TransRate  = 65.2 MiB/s
+FileRate   = 1,849 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2022/03/01 16:52:06
+
+<Source>  F:\windows\toolchain
+<DestDir> C:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 2,768 MiB
+TotalWrite = 2,768 MiB
+TotalFiles = 70,206 (1,973)
+TotalTime  = 40.4 sec
+TransRate  = 68.8 MiB/s
+FileRate   = 1,744 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2022/03/02 15:52:58
+
+<Source>  D:\sma11case\TikTok.app_v23.3.0\Frameworks; D:\sma11case\TikTok.app_v23.3.0\TikTok
+<DestDir> D:\sma11case\TikTok.app_v23.3.0\7.0\
+<Command> Move (Overwrite)
+-------------------------------------------------
+
+TotalRead  = 191 MiB
+TotalWrite = 191 MiB
+TotalFiles = 13 (0)
+TotalDel   = 191 MiB
+DelFiles   = 13 (1)
+TotalTime  = 0.4 sec
+TransRate  = 471.5 MiB/s
+FileRate   = 32.0 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2022/03/02 15:53:05
+
+<Source>  D:\sma11case\TikTok.app_v23.3.0\7.0\Frameworks; D:\sma11case\TikTok.app_v23.3.0\7.0\TikTok
+<DestDir> D:\sma11case\TikTok.app_v23.3.0\7.6\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 3,182 MiB
+TotalWrite = 3,182 MiB
+TotalFiles = 14 (0)
+TotalTime  = 4.8 sec
+TransRate  = 664.6 MiB/s
+FileRate   = 2.92 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2022/03/07 17:42:48
+
+<Source>  E:\download\go1.16.15.windows-amd64
+<DestDir> D:\code\
+<Command> Move (Overwrite)
+-------------------------------------------------
+
+TotalRead  = 387 MiB
+TotalWrite = 387 MiB
+TotalFiles = 9,807 (1,162)
+TotalDel   = 387 MiB
+DelFiles   = 9,807 (1,162)
+TotalTime  = 21.4 sec
+TransRate  = 20.7 MiB/s
+FileRate   = 525.2 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2022/03/07 18:16:13
+
+<Source>  E:\msys64\mingw64\bin\zlib1.dll; E:\msys64\mingw64\bin\avcodec-58.dll; E:\msys64\mingw64\bin\avdevice-58.dll; E:\msys64\mingw64\bin\avfilter-7.dll; E:\msys64\mingw64\bin\avformat-58.dll; E:\msys64\mingw64\bin\avutil-56.dll; E:\msys64\mingw64\bin\Codec_EXR.dll; E:\msys64\mingw64\bin\Codec_FreeImage.dll; E:\msys64\mingw64\bin\Codec_STBI.dll; E:\msys64\mingw64\bin\DefaultSamples.dll; E:\msys64\mingw64\bin\edit.dll; E:\msys64\mingw64\bin\freebl3.dll; E:\msys64\mingw64\bin\libaec.dll; E:\msys64\mingw64\bin\libamd.dll; E:\msys64\mingw64\bin\libaom.dll; E:\msys64\mingw64\bin\libarchive-13.dll; E:\msys64\mingw64\bin\libasprintf-0.dll; E:\msys64\mingw64\bin\libass-9.dll; E:\msys64\mingw64\bin\libassimp.dll; E:\msys64\mingw64\bin\libatomic-1.dll; E:\msys64\mingw64\bin\libbluray-2.dll; E:\msys64\mingw64\bin\libboost_atomic-mt.dll; E:\msys64\mingw64\bin\libboost_chrono-mt.dll; E:\msys64\mingw64\bin\libboost_container-mt.dll; E:\msys64\mingw64\bin\libboost_context-mt.dll; E:\msys64\mingw64\bin\libboost_contract-mt.dll; E:\msys64\mingw64\bin\libboost_coroutine-mt.dll; E:\msys64\mingw64\bin\libboost_date_time-mt.dll; E:\msys64\mingw64\bin\libboost_fiber-mt.dll; E:\msys64\mingw64\bin\libboost_filesystem-mt.dll; E:\msys64\mingw64\bin\libboost_graph-mt.dll; E:\msys64\mingw64\bin\libboost_iostreams-mt.dll; E:\msys64\mingw64\bin\libboost_json-mt.dll; E:\msys64\mingw64\bin\libboost_locale-mt.dll; E:\msys64\mingw64\bin\libboost_log_setup-mt.dll; E:\msys64\mingw64\bin\libboost_log-mt.dll; E:\msys64\mingw64\bin\libboost_math_c99f-mt.dll; E:\msys64\mingw64\bin\libboost_math_c99l-mt.dll; E:\msys64\mingw64\bin\libboost_math_c99-mt.dll; E:\msys64\mingw64\bin\libboost_math_tr1f-mt.dll; E:\msys64\mingw64\bin\libboost_math_tr1l-mt.dll; E:\msys64\mingw64\bin\libboost_math_tr1-mt.dll; E:\msys64\mingw64\bin\libboost_nowide-mt.dll; E:\msys64\mingw64\bin\libboost_prg_exec_monitor-mt.dll; E:\msys64\mingw64\bin\libboost_program_options-mt.dll; E:\msys64\mingw64\bin\libboost_python39-mt.dll; E:\msys64\mingw64\bin\libboost_random-mt.dll; E:\msys64\mingw64\bin\libboost_regex-mt.dll; E:\msys64\mingw64\bin\libboost_serialization-mt.dll; E:\msys64\mingw64\bin\libboost_stacktrace_noop-mt.dll; E:\msys64\mingw64\bin\libboost_stacktrace_windbg_cached-mt.dll; E:\msys64\mingw64\bin\libboost_stacktrace_windbg-mt.dll; E:\msys64\mingw64\bin\libboost_system-mt.dll; E:\msys64\mingw64\bin\libboost_thread-mt.dll; E:\msys64\mingw64\bin\libboost_timer-mt.dll; E:\msys64\mingw64\bin\libboost_type_erasure-mt.dll; E:\msys64\mingw64\bin\libboost_unit_test_framework-mt.dll; E:\msys64\mingw64\bin\libboost_wave-mt.dll; E:\msys64\mingw64\bin\libboost_wserialization-mt.dll; E:\msys64\mingw64\bin\libbrotlicommon.dll; E:\msys64\mingw64\bin\libbrotlidec.dll; E:\msys64\mingw64\bin\libbrotlienc.dll; E:\msys64\mingw64\bin\libbtf.dll; E:\msys64\mingw64\bin\libbz2-1.dll; E:\msys64\mingw64\bin\libc++.dll; E:\msys64\mingw64\bin\libcaca++-0.dll; E:\msys64\mingw64\bin\libcaca-0.dll; E:\msys64\mingw64\bin\libcairo-2.dll; E:\msys64\mingw64\bin\libcairo-gobject-2.dll; E:\msys64\mingw64\bin\libcairo-script-interpreter-2.dll; E:\msys64\mingw64\bin\libcamd.dll; E:\msys64\mingw64\bin\libcares-4.dll; E:\msys64\mingw64\bin\libccolamd.dll; E:\msys64\mingw64\bin\libcelt0-2.dll; E:\msys64\mingw64\bin\libceres.dll; E:\msys64\mingw64\bin\libcharset-1.dll; E:\msys64\mingw64\bin\libcholmod.dll; E:\msys64\mingw64\bin\libclang.dll; E:\msys64\mingw64\bin\libclang-cpp.dll; E:\msys64\mingw64\bin\libcolamd.dll; E:\msys64\mingw64\bin\libcppunit-1-15-1.dll; E:\msys64\mingw64\bin\libcrypto-1_1-x64.dll; E:\msys64\mingw64\bin\libcurl-4.dll; E:\msys64\mingw64\bin\libcxsparse.dll; E:\msys64\mingw64\bin\libdatrie-1.dll; E:\msys64\mingw64\bin\libdav1d.dll; E:\msys64\mingw64\bin\libdbus-1-3.dll; E:\msys64\mingw64\bin\libde265-0.dll; E:\msys64\mingw64\bin\libdeflate.dll; E:\msys64\mingw64\bin\libdjvulibre-21.dll; E:\msys64\mingw64\bin\libdouble-conversion.dll; E:\msys64\mingw64\bin\libevent_core-2-1-7.dll; E:\msys64\mingw64\bin\libevent_extra-2-1-7.dll; E:\msys64\mingw64\bin\libevent_openssl-2-1-7.dll; E:\msys64\mingw64\bin\libevent-2-1-7.dll; E:\msys64\mingw64\bin\libexif-12.dll; E:\msys64\mingw64\bin\libexpat-1.dll; E:\msys64\mingw64\bin\libexslt-0.dll; E:\msys64\mingw64\bin\libffi-7.dll; E:\msys64\mingw64\bin\libffms2-4.dll; E:\msys64\mingw64\bin\libfftw3-3.dll; E:\msys64\mingw64\bin\libfftw3f-3.dll; E:\msys64\mingw64\bin\libfftw3l-3.dll; E:\msys64\mingw64\bin\libflif.dll; E:\msys64\mingw64\bin\libflif_dec.dll; E:\msys64\mingw64\bin\libfontconfig-1.dll; E:\msys64\mingw64\bin\libfreeglut.dll; E:\msys64\mingw64\bin\libfreeimage-3.dll; E:\msys64\mingw64\bin\libfreeimageplus-3.dll; E:\msys64\mingw64\bin\libfreetype-6.dll; E:\msys64\mingw64\bin\libfribidi-0.dll; E:\msys64\mingw64\bin\libgavl-1.dll; E:\msys64\mingw64\bin\libgcc_s_seh-1.dll; E:\msys64\mingw64\bin\libgccjit-0.dll; E:\msys64\mingw64\bin\libgcrypt-20.dll; E:\msys64\mingw64\bin\libgdk_pixbuf-2.0-0.dll; E:\msys64\mingw64\bin\libgettextlib-0-21.dll; E:\msys64\mingw64\bin\libgettextpo-0.dll; E:\msys64\mingw64\bin\libgettextsrc-0-21.dll; E:\msys64\mingw64\bin\libgflags.dll; E:\msys64\mingw64\bin\libgflags_nothreads.dll; E:\msys64\mingw64\bin\libgfortran-5.dll; E:\msys64\mingw64\bin\libgif-7.dll; E:\msys64\mingw64\bin\libgio-2.0-0.dll; E:\msys64\mingw64\bin\libglib-2.0-0.dll; E:\msys64\mingw64\bin\libglog.dll; E:\msys64\mingw64\bin\libgme.dll; E:\msys64\mingw64\bin\libgmodule-2.0-0.dll; E:\msys64\mingw64\bin\libgmp-10.dll; E:\msys64\mingw64\bin\libgmpxx-4.dll; E:\msys64\mingw64\bin\libgnarl-11.dll; E:\msys64\mingw64\bin\libgnat-11.dll; E:\msys64\mingw64\bin\libgnutls-30.dll; E:\msys64\mingw64\bin\libgnutls-openssl-27.dll; E:\msys64\mingw64\bin\libgnutlsxx-28.dll; E:\msys64\mingw64\bin\libgobject-2.0-0.dll; E:\msys64\mingw64\bin\libgomp-1.dll; E:\msys64\mingw64\bin\libgpg-error-0.dll; E:\msys64\mingw64\bin\libgraphite2.dll; E:\msys64\mingw64\bin\libgsm.dll; E:\msys64\mingw64\bin\libgthread-2.0-0.dll; E:\msys64\mingw64\bin\libHalf-2_5.dll; E:\msys64\mingw64\bin\libharfbuzz-0.dll; E:\msys64\mingw64\bin\libharfbuzz-gobject-0.dll; E:\msys64\mingw64\bin\libharfbuzz-icu-0.dll; E:\msys64\mingw64\bin\libharfbuzz-subset-0.dll; E:\msys64\mingw64\bin\libhdf5_cpp-0.dll; E:\msys64\mingw64\bin\libhdf5_f90cstub-0.dll; E:\msys64\mingw64\bin\libhdf5_fortran-0.dll; E:\msys64\mingw64\bin\libhdf5_hl_cpp-0.dll; E:\msys64\mingw64\bin\libhdf5_hl_f90cstub-0.dll; E:\msys64\mingw64\bin\libhdf5_hl_fortran-0.dll; E:\msys64\mingw64\bin\libhdf5_hl-0.dll; E:\msys64\mingw64\bin\libhdf5_tools-0.dll; E:\msys64\mingw64\bin\libhdf5-0.dll; E:\msys64\mingw64\bin\libhdr10plus.dll; E:\msys64\mingw64\bin\libheif.dll; E:\msys64\mingw64\bin\libhistory8.dll; E:\msys64\mingw64\bin\libhogweed-6.dll; E:\msys64\mingw64\bin\libiconv-2.dll; E:\msys64\mingw64\bin\libicudt69.dll; E:\msys64\mingw64\bin\libicudtd69.dll; E:\msys64\mingw64\bin\libicuin69.dll; E:\msys64\mingw64\bin\libicuind69.dll; E:\msys64\mingw64\bin\libicuio69.dll; E:\msys64\mingw64\bin\libicuiod69.dll; E:\msys64\mingw64\bin\libicutest69.dll; E:\msys64\mingw64\bin\libicutestd69.dll; E:\msys64\mingw64\bin\libicutu69.dll; E:\msys64\mingw64\bin\libicutud69.dll; E:\msys64\mingw64\bin\libicuuc69.dll; E:\msys64\mingw64\bin\libicuucd69.dll; E:\msys64\mingw64\bin\libidn2-0.dll; E:\msys64\mingw64\bin\libIex-2_5.dll; E:\msys64\mingw64\bin\libIexMath-2_5.dll; E:\msys64\mingw64\bin\libIlmImf-2_5.dll; E:\msys64\mingw64\bin\libIlmImfUtil-2_5.dll; E:\msys64\mingw64\bin\libIlmThread-2_5.dll; E:\msys64\mingw64\bin\libImath-2_5.dll; E:\msys64\mingw64\bin\libintl-8.dll; E:\msys64\mingw64\bin\libjansson-4.dll; E:\msys64\mingw64\bin\libjasper-4.dll; E:\msys64\mingw64\bin\libjbig-0.dll; E:\msys64\mingw64\bin\libjemalloc.dll; E:\msys64\mingw64\bin\libjpeg-8.dll; E:\msys64\mingw64\bin\libjpegxr.dll; E:\msys64\mingw64\bin\libjq-1.dll; E:\msys64\mingw64\bin\libjsoncpp-24.dll; E:\msys64\mingw64\bin\libjxrglue.dll; E:\msys64\mingw64\bin\libklu.dll; E:\msys64\mingw64\bin\liblcms2-2.dll; E:\msys64\mingw64\bin\libldl.dll; E:\msys64\mingw64\bin\liblept-5.dll; E:\msys64\mingw64\bin\libLerc.dll; E:\msys64\mingw64\bin\liblldb.dll; E:\msys64\mingw64\bin\libLLVM-13.dll; E:\msys64\mingw64\bin\liblqr-1-0.dll; E:\msys64\mingw64\bin\liblsmash-2.dll; E:\msys64\mingw64\bin\libltdl-7.dll; E:\msys64\mingw64\bin\libLTO.dll; E:\msys64\mingw64\bin\liblz4.dll; E:\msys64\mingw64\bin\liblzma-5.dll; E:\msys64\mingw64\bin\liblzo2-2.dll; E:\msys64\mingw64\bin\libMagick++-7.Q16HDRI-4.dll; E:\msys64\mingw64\bin\libMagickCore-7.Q16HDRI-7.dll; E:\msys64\mingw64\bin\libMagickWand-7.Q16HDRI-7.dll; E:\msys64\mingw64\bin\libmd4c.dll; E:\msys64\mingw64\bin\libmd4c-html.dll; E:\msys64\mingw64\bin\libmetis.dll; E:\msys64\mingw64\bin\libmfx-1.dll; E:\msys64\mingw64\bin\libminizip-1.dll; E:\msys64\mingw64\bin\libmng-2.dll; E:\msys64\mingw64\bin\libmodplug-1.dll; E:\msys64\mingw64\bin\libmp3lame-0.dll; E:\msys64\mingw64\bin\libmpdec++-2.dll; E:\msys64\mingw64\bin\libmpdec-2.dll; E:\msys64\mingw64\bin\libmysofa.dll; E:\msys64\mingw64\bin\libnettle-8.dll; E:\msys64\mingw64\bin\libnghttp2-14.dll; E:\msys64\mingw64\bin\libnspr4.dll; E:\msys64\mingw64\bin\libobjc-4.dll; E:\msys64\mingw64\bin\libogg-0.dll; E:\msys64\mingw64\bin\libonig-5.dll; E:\msys64\mingw64\bin\libopenal-1.dll; E:\msys64\mingw64\bin\libopenblas.dll; E:\msys64\mingw64\bin\libopencore-amrnb-0.dll; E:\msys64\mingw64\bin\libopencore-amrwb-0.dll; E:\msys64\mingw64\bin\libopencv_alphamat452.dll; E:\msys64\mingw64\bin\libopencv_aruco452.dll; E:\msys64\mingw64\bin\libopencv_bgsegm452.dll; E:\msys64\mingw64\bin\libopencv_calib3d452.dll; E:\msys64\mingw64\bin\libopencv_ccalib452.dll; E:\msys64\mingw64\bin\libopencv_core452.dll; E:\msys64\mingw64\bin\libopencv_datasets452.dll; E:\msys64\mingw64\bin\libopencv_dnn_objdetect452.dll; E:\msys64\mingw64\bin\libopencv_dnn_superres452.dll; E:\msys64\mingw64\bin\libopencv_dnn452.dll; E:\msys64\mingw64\bin\libopencv_dpm452.dll; E:\msys64\mingw64\bin\libopencv_face452.dll; E:\msys64\mingw64\bin\libopencv_features2d452.dll; E:\msys64\mingw64\bin\libopencv_flann452.dll; E:\msys64\mingw64\bin\libopencv_freetype452.dll; E:\msys64\mingw64\bin\libopencv_fuzzy452.dll; E:\msys64\mingw64\bin\libopencv_gapi452.dll; E:\msys64\mingw64\bin\libopencv_hdf452.dll; E:\msys64\mingw64\bin\libopencv_hfs452.dll; E:\msys64\mingw64\bin\libopencv_highgui452.dll; E:\msys64\mingw64\bin\libopencv_img_hash452.dll; E:\msys64\mingw64\bin\libopencv_imgcodecs452.dll; E:\msys64\mingw64\bin\libopencv_imgproc452.dll; E:\msys64\mingw64\bin\libopencv_intensity_transform452.dll; E:\msys64\mingw64\bin\libopencv_line_descriptor452.dll; E:\msys64\mingw64\bin\libopencv_mcc452.dll; E:\msys64\mingw64\bin\libopencv_ml452.dll; E:\msys64\mingw64\bin\libopencv_objdetect452.dll; E:\msys64\mingw64\bin\libopencv_optflow452.dll; E:\msys64\mingw64\bin\libopencv_ovis452.dll; E:\msys64\mingw64\bin\libopencv_phase_unwrapping452.dll; E:\msys64\mingw64\bin\libopencv_photo452.dll; E:\msys64\mingw64\bin\libopencv_plot452.dll; E:\msys64\mingw64\bin\libopencv_quality452.dll; E:\msys64\mingw64\bin\libopencv_rapid452.dll; E:\msys64\mingw64\bin\libopencv_reg452.dll; E:\msys64\mingw64\bin\libopencv_rgbd452.dll; E:\msys64\mingw64\bin\libopencv_saliency452.dll; E:\msys64\mingw64\bin\libopencv_sfm452.dll; E:\msys64\mingw64\bin\libopencv_shape452.dll; E:\msys64\mingw64\bin\libopencv_stereo452.dll; E:\msys64\mingw64\bin\libopencv_stitching452.dll; E:\msys64\mingw64\bin\libopencv_structured_light452.dll; E:\msys64\mingw64\bin\libopencv_superres452.dll; E:\msys64\mingw64\bin\libopencv_surface_matching452.dll; E:\msys64\mingw64\bin\libopencv_text452.dll; E:\msys64\mingw64\bin\libopencv_tracking452.dll; E:\msys64\mingw64\bin\libopencv_video452.dll; E:\msys64\mingw64\bin\libopencv_videoio452.dll; E:\msys64\mingw64\bin\libopencv_videostab452.dll; E:\msys64\mingw64\bin\libopencv_wechat_qrcode452.dll; E:\msys64\mingw64\bin\libopencv_xfeatures2d452.dll; E:\msys64\mingw64\bin\libopencv_ximgproc452.dll; E:\msys64\mingw64\bin\libopencv_xobjdetect452.dll; E:\msys64\mingw64\bin\libopencv_xphoto452.dll; E:\msys64\mingw64\bin\libopenjp2-7.dll; E:\msys64\mingw64\bin\libopenjp3d-7.dll; E:\msys64\mingw64\bin\libopenjpip-7.dll; E:\msys64\mingw64\bin\libopenjpwl-7.dll; E:\msys64\mingw64\bin\libopenmj2-7.dll; E:\msys64\mingw64\bin\libopus-0.dll; E:\msys64\mingw64\bin\libp11-kit-0.dll; E:\msys64\mingw64\bin\libpango-1.0-0.dll; E:\msys64\mingw64\bin\libpangocairo-1.0-0.dll; E:\msys64\mingw64\bin\libpangoft2-1.0-0.dll; E:\msys64\mingw64\bin\libpangowin32-1.0-0.dll; E:\msys64\mingw64\bin\libpcre-1.dll; E:\msys64\mingw64\bin\libpcre2-8-0.dll; E:\msys64\mingw64\bin\libpcre2-16-0.dll; E:\msys64\mingw64\bin\libpcre2-32-0.dll; E:\msys64\mingw64\bin\libpcre2-posix-3.dll; E:\msys64\mingw64\bin\libpcre16-0.dll; E:\msys64\mingw64\bin\libpcre32-0.dll; E:\msys64\mingw64\bin\libpcrecpp-0.dll; E:\msys64\mingw64\bin\libpcreposix-0.dll; E:\msys64\mingw64\bin\libpixman-1-0.dll; E:\msys64\mingw64\bin\libpkgconf-3.dll; E:\msys64\mingw64\bin\libplc4.dll; E:\msys64\mingw64\bin\libplds4.dll; E:\msys64\mingw64\bin\libpng16-16.dll; E:\msys64\mingw64\bin\libprotobuf.dll; E:\msys64\mingw64\bin\libprotobuf-lite.dll; E:\msys64\mingw64\bin\libprotoc.dll; E:\msys64\mingw64\bin\libpsl-5.dll; E:\msys64\mingw64\bin\libpugixml.dll; E:\msys64\mingw64\bin\libpython2.7.dll; E:\msys64\mingw64\bin\libpython3.9.dll; E:\msys64\mingw64\bin\libquadmath-0.dll; E:\msys64\mingw64\bin\libraqm-0.dll; E:\msys64\mingw64\bin\libraw_r-20.dll; E:\msys64\mingw64\bin\libraw-20.dll; E:\msys64\mingw64\bin\librbio.dll; E:\msys64\mingw64\bin\libreadline8.dll; E:\msys64\mingw64\bin\libRemarks.dll; E:\msys64\mingw64\bin\librhash.dll; E:\msys64\mingw64\bin\librsvg-2-2.dll; E:\msys64\mingw64\bin\librtmp-1.dll; E:\msys64\mingw64\bin\libsigsegv-2.dll; E:\msys64\mingw64\bin\libsliplu.dll; E:\msys64\mingw64\bin\libsoxr.dll; E:\msys64\mingw64\bin\libsoxr-lsr.dll; E:\msys64\mingw64\bin\libspeex-1.dll; E:\msys64\mingw64\bin\libspeexdsp-1.dll; E:\msys64\mingw64\bin\libspqr.dll; E:\msys64\mingw64\bin\libsqlite3-0.dll; E:\msys64\mingw64\bin\libsrt.dll; E:\msys64\mingw64\bin\libssh.dll; E:\msys64\mingw64\bin\libssh2-1.dll; E:\msys64\mingw64\bin\libssl-1_1-x64.dll; E:\msys64\mingw64\bin\libssp-0.dll; E:\msys64\mingw64\bin\libstdc++-6.dll; E:\msys64\mingw64\bin\libsuitesparseconfig.dll; E:\msys64\mingw64\bin\libSvtAv1Dec.dll; E:\msys64\mingw64\bin\libSvtAv1Enc.dll; E:\msys64\mingw64\bin\libsystre-0.dll; E:\msys64\mingw64\bin\libsz.dll; E:\msys64\mingw64\bin\libtasn1-6.dll; E:\msys64\mingw64\bin\libtermcap-0.dll; E:\msys64\mingw64\bin\libtesseract-0.dll; E:\msys64\mingw64\bin\libthai-0.dll; E:\msys64\mingw64\bin\libtheora-0.dll; E:\msys64\mingw64\bin\libtheoradec-1.dll; E:\msys64\mingw64\bin\libtheoraenc-1.dll; E:\msys64\mingw64\bin\libtiff-5.dll; E:\msys64\mingw64\bin\libtiffxx-5.dll; E:\msys64\mingw64\bin\libtinyxml-0.dll; E:\msys64\mingw64\bin\libtorrent-rasterbar.dll; E:\msys64\mingw64\bin\libtre-5.dll; E:\msys64\mingw64\bin\libturbojpeg.dll; E:\msys64\mingw64\bin\libumfpack.dll; E:\msys64\mingw64\bin\libunistring-2.dll; E:\msys64\mingw64\bin\libunwind.dll; E:\msys64\mingw64\bin\libuv-1.dll; E:\msys64\mingw64\bin\libvidstab.dll; E:\msys64\mingw64\bin\libvorbis-0.dll; E:\msys64\mingw64\bin\libvorbisenc-2.dll; E:\msys64\mingw64\bin\libvorbisfile-3.dll; E:\msys64\mingw64\bin\libvpx-1.dll; E:\msys64\mingw64\bin\libvulkan-1.dll; E:\msys64\mingw64\bin\libwavpack-1.dll; E:\msys64\mingw64\bin\libwebp-7.dll; E:\msys64\mingw64\bin\libwebpdecoder-3.dll; E:\msys64\mingw64\bin\libwebpdemux-2.dll; E:\msys64\mingw64\bin\libwebpmux-3.dll; E:\msys64\mingw64\bin\libwinpthread-1.dll; E:\msys64\mingw64\bin\libwmf-0-2-7.dll; E:\msys64\mingw64\bin\libwmflite-0-2-7.dll; E:\msys64\mingw64\bin\libx264-161.dll; E:\msys64\mingw64\bin\libx265.dll; E:\msys64\mingw64\bin\libxml2-2.dll; E:\msys64\mingw64\bin\libXpm-noX4.dll; E:\msys64\mingw64\bin\libxslt-1.dll; E:\msys64\mingw64\bin\libxxhash.dll; E:\msys64\mingw64\bin\libz3.dll; E:\msys64\mingw64\bin\libzimg-2.dll; E:\msys64\mingw64\bin\libzstd.dll; E:\msys64\mingw64\bin\libzzip.dll; E:\msys64\mingw64\bin\libzzipfseeko.dll; E:\msys64\mingw64\bin\libzzipmmapped.dll; E:\msys64\mingw64\bin\libzzipwrap.dll; E:\msys64\mingw64\bin\lua54.dll; E:\msys64\mingw64\bin\nss3.dll; E:\msys64\mingw64\bin\nssckbi.dll; E:\msys64\mingw64\bin\nssutil3.dll; E:\msys64\mingw64\bin\OgreBites.dll; E:\msys64\mingw64\bin\OgreMain.dll; E:\msys64\mingw64\bin\OgreMeshLodGenerator.dll; E:\msys64\mingw64\bin\OgreOverlay.dll; E:\msys64\mingw64\bin\OgrePaging.dll; E:\msys64\mingw64\bin\OgreProperty.dll; E:\msys64\mingw64\bin\OgreRTShaderSystem.dll; E:\msys64\mingw64\bin\OgreTerrain.dll; E:\msys64\mingw64\bin\OgreVolume.dll; E:\msys64\mingw64\bin\opencv_videoio_ffmpeg452_64.dll; E:\msys64\mingw64\bin\Plugin_BSPSceneManager.dll; E:\msys64\mingw64\bin\Plugin_DotScene.dll; E:\msys64\mingw64\bin\Plugin_OctreeSceneManager.dll; E:\msys64\mingw64\bin\Plugin_OctreeZone.dll; E:\msys64\mingw64\bin\Plugin_ParticleFX.dll; E:\msys64\mingw64\bin\Plugin_PCZSceneManager.dll; E:\msys64\mingw64\bin\postproc-55.dll; E:\msys64\mingw64\bin\Qt5Bluetooth.dll; E:\msys64\mingw64\bin\Qt5Bodymovin.dll; E:\msys64\mingw64\bin\Qt5Charts.dll; E:\msys64\mingw64\bin\Qt5Concurrent.dll; E:\msys64\mingw64\bin\Qt5Core.dll; E:\msys64\mingw64\bin\Qt5DataVisualization.dll; E:\msys64\mingw64\bin\Qt5DBus.dll; E:\msys64\mingw64\bin\Qt5Designer.dll; E:\msys64\mingw64\bin\Qt5DesignerComponents.dll; E:\msys64\mingw64\bin\Qt5Gamepad.dll; E:\msys64\mingw64\bin\Qt5Gui.dll; E:\msys64\mingw64\bin\Qt5Help.dll; E:\msys64\mingw64\bin\Qt5Location.dll; E:\msys64\mingw64\bin\Qt5Multimedia.dll; E:\msys64\mingw64\bin\Qt5MultimediaQuick.dll; E:\msys64\mingw64\bin\Qt5MultimediaWidgets.dll; E:\msys64\mingw64\bin\Qt5Network.dll; E:\msys64\mingw64\bin\Qt5NetworkAuth.dll; E:\msys64\mingw64\bin\Qt5Nfc.dll; E:\msys64\mingw64\bin\Qt5OpenGL.dll; E:\msys64\mingw64\bin\Qt5Positioning.dll; E:\msys64\mingw64\bin\Qt5PositioningQuick.dll; E:\msys64\mingw64\bin\Qt5PrintSupport.dll; E:\msys64\mingw64\bin\Qt5Purchasing.dll; E:\msys64\mingw64\bin\Qt5Qml.dll; E:\msys64\mingw64\bin\Qt5QmlModels.dll; E:\msys64\mingw64\bin\Qt5QmlWorkerScript.dll; E:\msys64\mingw64\bin\Qt5Quick.dll; E:\msys64\mingw64\bin\Qt5Quick3D.dll; E:\msys64\mingw64\bin\Qt5Quick3DAssetImport.dll; E:\msys64\mingw64\bin\Qt5Quick3DRender.dll; E:\msys64\mingw64\bin\Qt5Quick3DRuntimeRender.dll; E:\msys64\mingw64\bin\Qt5Quick3DUtils.dll; E:\msys64\mingw64\bin\Qt5QuickControls2.dll; E:\msys64\mingw64\bin\Qt5QuickParticles.dll; E:\msys64\mingw64\bin\Qt5QuickShapes.dll; E:\msys64\mingw64\bin\Qt5QuickTemplates2.dll; E:\msys64\mingw64\bin\Qt5QuickTest.dll; E:\msys64\mingw64\bin\Qt5QuickWidgets.dll; E:\msys64\mingw64\bin\Qt5RemoteObjects.dll; E:\msys64\mingw64\bin\Qt5Script.dll; E:\msys64\mingw64\bin\Qt5ScriptTools.dll; E:\msys64\mingw64\bin\Qt5Scxml.dll; E:\msys64\mingw64\bin\Qt5Sensors.dll; E:\msys64\mingw64\bin\Qt5SerialBus.dll; E:\msys64\mingw64\bin\Qt5SerialPort.dll; E:\msys64\mingw64\bin\Qt5Sql.dll; E:\msys64\mingw64\bin\Qt5Svg.dll; E:\msys64\mingw64\bin\Qt5Test.dll; E:\msys64\mingw64\bin\Qt5TextToSpeech.dll; E:\msys64\mingw64\bin\Qt5VirtualKeyboard.dll; E:\msys64\mingw64\bin\Qt5WebChannel.dll; E:\msys64\mingw64\bin\Qt5WebSockets.dll; E:\msys64\mingw64\bin\Qt5WebView.dll; E:\msys64\mingw64\bin\Qt5Widgets.dll; E:\msys64\mingw64\bin\Qt5WinExtras.dll; E:\msys64\mingw64\bin\Qt5Xml.dll; E:\msys64\mingw64\bin\Qt5XmlPatterns.dll; E:\msys64\mingw64\bin\Qt53DAnimation.dll; E:\msys64\mingw64\bin\Qt53DCore.dll; E:\msys64\mingw64\bin\Qt53DExtras.dll; E:\msys64\mingw64\bin\Qt53DInput.dll; E:\msys64\mingw64\bin\Qt53DLogic.dll; E:\msys64\mingw64\bin\Qt53DQuick.dll; E:\msys64\mingw64\bin\Qt53DQuickAnimation.dll; E:\msys64\mingw64\bin\Qt53DQuickExtras.dll; E:\msys64\mingw64\bin\Qt53DQuickInput.dll; E:\msys64\mingw64\bin\Qt53DQuickRender.dll; E:\msys64\mingw64\bin\Qt53DQuickScene2D.dll; E:\msys64\mingw64\bin\Qt53DRender.dll; E:\msys64\mingw64\bin\rav1e.dll; E:\msys64\mingw64\bin\RenderSystem_Direct3D9.dll; E:\msys64\mingw64\bin\RenderSystem_Direct3D11.dll; E:\msys64\mingw64\bin\RenderSystem_GL.dll; E:\msys64\mingw64\bin\RenderSystem_GL3Plus.dll; E:\msys64\mingw64\bin\SDL2.dll; E:\msys64\mingw64\bin\smime3.dll; E:\msys64\mingw64\bin\softokn3.dll; E:\msys64\mingw64\bin\ssl3.dll; E:\msys64\mingw64\bin\swresample-3.dll; E:\msys64\mingw64\bin\swscale-5.dll; E:\msys64\mingw64\bin\tbb.dll; E:\msys64\mingw64\bin\tbbmalloc.dll; E:\msys64\mingw64\bin\tbbmalloc_proxy.dll; E:\msys64\mingw64\bin\tcl86.dll; E:\msys64\mingw64\bin\tk86.dll; E:\msys64\mingw64\bin\wxbase30u_gcc_custom.dll; E:\msys64\mingw64\bin\wxbase30u_net_gcc_custom.dll; E:\msys64\mingw64\bin\wxbase30u_xml_gcc_custom.dll; E:\msys64\mingw64\bin\wxmsw30u_adv_gcc_custom.dll; E:\msys64\mingw64\bin\wxmsw30u_aui_gcc_custom.dll; E:\msys64\mingw64\bin\wxmsw30u_core_gcc_custom.dll; E:\msys64\mingw64\bin\wxmsw30u_gl_gcc_custom.dll; E:\msys64\mingw64\bin\wxmsw30u_html_gcc_custom.dll; E:\msys64\mingw64\bin\wxmsw30u_media_gcc_custom.dll; E:\msys64\mingw64\bin\wxmsw30u_propgrid_gcc_custom.dll; E:\msys64\mingw64\bin\wxmsw30u_qa_gcc_custom.dll; E:\msys64\mingw64\bin\wxmsw30u_ribbon_gcc_custom.dll; E:\msys64\mingw64\bin\wxmsw30u_richtext_gcc_custom.dll; E:\msys64\mingw64\bin\wxmsw30u_stc_gcc_custom.dll; E:\msys64\mingw64\bin\wxmsw30u_webview_gcc_custom.dll; E:\msys64\mingw64\bin\wxmsw30u_xrc_gcc_custom.dll; E:\msys64\mingw64\bin\xvidcore.dll
+<DestDir> D:\code\tgdemo\go-telegram\go-telegram\examples\demo2\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 857 MiB
+TotalWrite = 857 MiB
+TotalFiles = 509 (0)
+TotalSkip  = 2.0 MiB
+SkipFiles  = 2 (0)
+TotalTime  = 11.8 sec
+TransRate  = 73.1 MiB/s
+FileRate   = 43.4 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2022/03/09 10:45:52
+
+<Source>  D:\sma11case\TikTok.app_v23.3.0\7.0\Frameworks\TikTokCore; D:\sma11case\TikTok.app_v23.3.0\7.0\Frameworks\TikTokCore.i64
+<DestDir> Z:\tiktok\ios\ida7.0\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 3,162 MiB
+TotalWrite = 3,162 MiB
+TotalFiles = 2 (0)
+TotalTime  = 30.9 sec
+TransRate  = 102.4 MiB/s
+FileRate   = 0.06 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2022/03/10 16:35:06
+
+<Source>  F:\windows\totalcmd
+<DestDir> D:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 24,693 MiB
+TotalWrite = 24,693 MiB
+TotalFiles = 5 (1)
+TotalTime  = 02:30
+TransRate  = 164.2 MiB/s
+FileRate   = 0.03 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2022/03/15 14:35:53
+
+<Source>  C:\tools\v2rayN-Core\geosite.dat; C:\tools\v2rayN-Core\Google.Protobuf.dll; C:\tools\v2rayN-Core\Grpc.Core.Api.dll; C:\tools\v2rayN-Core\Grpc.Core.dll; C:\tools\v2rayN-Core\grpc_csharp_ext.x64.dll; C:\tools\v2rayN-Core\grpc_csharp_ext.x86.dll; C:\tools\v2rayN-Core\guiNConfig.json; C:\tools\v2rayN-Core\log4net.dll; C:\tools\v2rayN-Core\netstandard.dll; C:\tools\v2rayN-Core\Newtonsoft.Json.dll; C:\tools\v2rayN-Core\StatisticLogOverall.json; C:\tools\v2rayN-Core\System.Buffers.dll; C:\tools\v2rayN-Core\System.Memory.dll; C:\tools\v2rayN-Core\System.Numerics.Vectors.dll; C:\tools\v2rayN-Core\System.Runtime.CompilerServices.Unsafe.dll; C:\tools\v2rayN-Core\v2ctl.exe; C:\tools\v2rayN-Core\v2ctl.exe.sig; C:\tools\v2rayN-Core\v2ray.exe; C:\tools\v2rayN-Core\v2ray.exe.sig; C:\tools\v2rayN-Core\v2rayN.exe; C:\tools\v2rayN-Core\v2rayUpgrade.exe; C:\tools\v2rayN-Core\vpoint_socks_vmess.json; C:\tools\v2rayN-Core\vpoint_vmess_freedom.json; C:\tools\v2rayN-Core\wv2ray.exe; C:\tools\v2rayN-Core\wv2ray.exe.sig; C:\tools\v2rayN-Core\xray.exe; C:\tools\v2rayN-Core\zxing.dll; C:\tools\v2rayN-Core\zxing.presentation.dll; C:\tools\v2rayN-Core\doc; C:\tools\v2rayN-Core\guiLogs; C:\tools\v2rayN-Core\v2ray_win_temp; C:\tools\v2rayN-Core\zh-Hans; C:\tools\v2rayN-Core\config.json; C:\tools\v2rayN-Core\geoip.dat
+<DestDir> C:\tools\software\tools\v2ray-windows-64\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 105 MiB
+TotalWrite = 105 MiB
+TotalFiles = 54 (4)
+TotalTime  = 0.4 sec
+TransRate  = 293.0 MiB/s
+FileRate   = 150.4 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2022/03/18 16:20:12
+
+<Source>  Y:\共享资料\VMPStudio; Y:\共享资料\A64Dbg; Y:\共享资料\frida
+<DestDir> D:\misc\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 1,155 MiB
+TotalWrite = 1,155 MiB
+TotalFiles = 18 (6)
+TotalTime  = 12.1 sec
+TransRate  = 95.4 MiB/s
+FileRate   = 1.49 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2022/03/19 17:55:16
+
+<Source>  E:\download\Xcode_13.3.xip
+<DestDir> F:\macos\setup\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 10,328 MiB
+TotalWrite = 10,328 MiB
+TotalFiles = 1 (0)
+TotalTime  = 02:09
+TransRate  = 79.9 MiB/s
+FileRate   = 0.01 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2022/03/19 18:00:47
+
+<Source>  E:\download\Command_Line_Tools_for_Xcode_13.3.dmg
+<DestDir> F:\macos\setup\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 701 MiB
+TotalWrite = 701 MiB
+TotalFiles = 1 (0)
+TotalTime  = 14.9 sec
+TransRate  = 47.0 MiB/s
+FileRate   = 0.07 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2022/03/21 18:18:20
+
+<Source>  D:\sma11case\TikTok.app_v23.3.0\7.7\TikTokCore.origin.i64
+<DestDir> Y:\tiktok\ios\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 3,034 MiB
+TotalWrite = 3,034 MiB
+TotalFiles = 1 (0)
+TotalTime  = 31.7 sec
+TransRate  = 95.7 MiB/s
+FileRate   = 0.03 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2022/03/30 17:23:12
+
+<Source>  E:\Thunder\BHO; E:\Thunder\Profiles; E:\Thunder\Program; E:\Thunder\istask.dll; E:\Thunder\unins000.dat; E:\Thunder\unins000.exe
+<DestDir> C:\DefaultBox\drive\C\Program Files (x86)\Thunder Network\Thunder\
+<Command> Move (Overwrite)
+-------------------------------------------------
+
+TotalRead  = 181 MiB
+TotalWrite = 181 MiB
+TotalFiles = 675 (76)
+TotalDel   = 181 MiB
+DelFiles   = 675 (102)
+TotalTime  = 6.2 sec
+TransRate  = 29.3 MiB/s
+FileRate   = 109.3 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2022/04/12 14:07:57
+
+<Source>  N:\work\Zalo201003
+<DestDir> D:\sma11case\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 255 MiB
+TotalWrite = 255 MiB
+TotalFiles = 19,539 (109)
+TotalTime  = 12.8 sec
+TransRate  = 20.4 MiB/s
+FileRate   = 1,554 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2022/06/15 14:37:36
+
+<Source>  Y:\whats
+<DestDir> D:\sma11case\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 941 MiB
+TotalWrite = 941 MiB
+TotalFiles = 3,944 (430)
+TotalTime  = 28.8 sec
+TransRate  = 33.3 MiB/s
+FileRate   = 139.4 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2022/09/11 09:50:38
+
+<Source>  D:\windows\totalcmd
+<DestDir> Z:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+CreateDirectory(Access is denied.5) : Z:\totalcmd
+CreateFile(The system cannot find the path specified.3) : Z:\totalcmd\MAINICON.ico
+CreateFile(The system cannot find the path specified.3) : Z:\totalcmd\mount_totalcmd.cmd
+CreateFile(The system cannot find the path specified.3) : Z:\totalcmd\pfmap-192-win.exe
+CreateFile(The system cannot find the path specified.3) : Z:\totalcmd\totalcmd.pfo
+CreateFile(The system cannot find the path specified.3) : Z:\totalcmd\unmount_totalcmd.cmd
+
+TotalRead  = 5.9 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 0.7 sec
+TransRate  = 0.00 MiB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 5 / ErrDirs : 1)
+
+=================================================
+FastCopy(ver3.85) start at 2022/09/11 09:51:16
+
+<Source>  D:\windows\totalcmd
+<DestDir> Z:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 24,693 MiB
+TotalWrite = 24,693 MiB
+TotalFiles = 5 (1)
+TotalTime  = 15:36
+TransRate  = 26.4 MiB/s
+FileRate   = 0.01 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2022/09/11 10:06:53
+
+<Source>  D:\windows\msys2
+<DestDir> Z:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 4,972 MiB
+TotalWrite = 4,972 MiB
+TotalFiles = 140,974 (8,044)
+TotalTime  = 07:19
+TransRate  = 11.3 MiB/s
+FileRate   = 321.3 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2022/11/03 09:40:43
+
+<Source>  Z:\thesnoWLib3Bin
+<DestDir> D:\winlib\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 6,004 MiB
+TotalWrite = 6,004 MiB
+TotalFiles = 747 (2)
+TotalSkip  = 14,167 MiB
+SkipFiles  = 7,353 (0)
+TotalTime  = 24.1 sec
+TransRate  = 253.4 MiB/s
+FileRate   = 31.5 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2022/11/03 10:00:52
+
+<Source>  Z:\thesnoWLib3Bin\thesnoWLib3Bin\Release; Z:\thesnoWLib3Bin\thesnoWLib3Bin\ReleaseMT; Z:\thesnoWLib3Bin\thesnoWLib3Bin\x64; Z:\thesnoWLib3Bin\thesnoWLib3Bin\.gitattributes; Z:\thesnoWLib3Bin\thesnoWLib3Bin\Debug; Z:\thesnoWLib3Bin\thesnoWLib3Bin\DebugMTd; Z:\thesnoWLib3Bin\thesnoWLib3Bin\include
+<DestDir> D:\winlib\thesnoWLib3Bin\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+OpenFile(Access is denied.5) : Z:\thesnoWLib3Bin\thesnoWLib3Bin\.gitattributes
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalSkip  = 9,203 MiB
+SkipFiles  = 2,795 (0)
+TotalTime  = 0.1 sec
+TransRate  = 0.00 MiB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 1 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2022/11/03 10:01:07
+
+<Source>  Z:\thesnoWLib3Bin\thesnoWLib3Bin\ReleaseMT; Z:\thesnoWLib3Bin\thesnoWLib3Bin\x64; Z:\thesnoWLib3Bin\thesnoWLib3Bin\Debug; Z:\thesnoWLib3Bin\thesnoWLib3Bin\DebugMTd; Z:\thesnoWLib3Bin\thesnoWLib3Bin\include; Z:\thesnoWLib3Bin\thesnoWLib3Bin\Release
+<DestDir> D:\winlib\thesnoWLib3Bin\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalSkip  = 9,203 MiB
+SkipFiles  = 2,795 (0)
+TotalTime  = 0.1 sec
+TransRate  = 0.00 MiB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2022/11/03 10:44:55
+
+<Source>  C:\sma11case
+<DestDir> D:\
+<Command> Move (Overwrite)
+-------------------------------------------------
+
+TotalRead  = 26,072 MiB
+TotalWrite = 26,072 MiB
+TotalFiles = 965 (138)
+TotalDel   = 26,072 MiB
+DelFiles   = 965 (138)
+TotalTime  = 01:42
+TransRate  = 253.6 MiB/s
+FileRate   = 9.39 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2022/11/03 12:34:10
+
+<Source>  Z:\msys2
+<DestDir> D:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 4,947 MiB
+TotalWrite = 4,947 MiB
+TotalFiles = 140,660 (8,006)
+TotalTime  = 01:47
+TransRate  = 48.7 MiB/s
+FileRate   = 1,386 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2022/11/04 09:16:05
+
+<Source>  D:\download\cmder_mini\icons; D:\download\cmder_mini\opt; D:\download\cmder_mini\vendor; D:\download\cmder_mini\Cmder.exe; D:\download\cmder_mini\LICENSE; "D:\download\cmder_mini\Version 1.3.20.1282"; D:\download\cmder_mini\bin
+<DestDir> D:\msys2\cmder\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 30 MiB
+TotalWrite = 30 MiB
+TotalFiles = 297 (1)
+TotalSkip  = 0.0 MiB
+SkipFiles  = 2 (0)
+TotalTime  = 0.2 sec
+TransRate  = 163.8 MiB/s
+FileRate   = 1,580 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2022/11/04 20:28:32
+
+<Source>  Z:\msys2
+<DestDir> D:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 4,947 MiB
+TotalWrite = 4,947 MiB
+TotalFiles = 140,658 (8,006)
+TotalTime  = 01:43
+TransRate  = 50.1 MiB/s
+FileRate   = 1,426 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2022/11/05 14:23:35
+
+<Source>  C:\Users\admin1\AppData\Local\element-desktop
+<DestDir> Y:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 386 MiB
+TotalWrite = 386 MiB
+TotalFiles = 86 (14)
+TotalTime  = 5.5 sec
+TransRate  = 69.8 MiB/s
+FileRate   = 15.5 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2022/11/05 14:26:00
+
+<Source>  C:\Users\admin1\AppData\Roaming\Element
+<DestDir> Y:\element-desktop\sss\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 7.5 MiB
+TotalWrite = 7.5 MiB
+TotalFiles = 54 (22)
+TotalTime  = 0.4 sec
+TransRate  = 20.0 MiB/s
+FileRate   = 144.0 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2022/12/07 09:02:32
+
+<Source>  C:\tools\IDA_v7.0.170914_english\python27\python27.dll; C:\tools\IDA_v7.0.170914_english\python27\pythonw.exe; C:\tools\IDA_v7.0.170914_english\python27\README.txt; C:\tools\IDA_v7.0.170914_english\python27\DLLs; C:\tools\IDA_v7.0.170914_english\python27\Doc; C:\tools\IDA_v7.0.170914_english\python27\include; C:\tools\IDA_v7.0.170914_english\python27\Lib; C:\tools\IDA_v7.0.170914_english\python27\libs; C:\tools\IDA_v7.0.170914_english\python27\Scripts; C:\tools\IDA_v7.0.170914_english\python27\tcl; C:\tools\IDA_v7.0.170914_english\python27\Tools; C:\tools\IDA_v7.0.170914_english\python27\DLLLoader64_CE19.exe; C:\tools\IDA_v7.0.170914_english\python27\LICENSE.txt; C:\tools\IDA_v7.0.170914_english\python27\NEWS.txt; C:\tools\IDA_v7.0.170914_english\python27\python.exe
+<DestDir> C:\Python27\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 71 MiB
+TotalWrite = 71 MiB
+TotalFiles = 4,068 (23)
+TotalTime  = 1.8 sec
+TransRate  = 39.9 MiB/s
+FileRate   = 2,287 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2022/12/08 11:09:39
+
+<Source>  E:\windows\tools\Win7
+<DestDir> Z:\wxpc\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalSkip  = 3.3 MiB
+SkipFiles  = 55 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MiB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2022/12/08 11:10:29
+
+<Source>  E:\windows\tools\win11
+<DestDir> Z:\wxpc\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 7.1 MiB
+TotalWrite = 7.1 MiB
+TotalFiles = 3 (1)
+TotalTime  = 0.0 sec
+TransRate  = 151.4 MiB/s
+FileRate   = 63.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2023/02/06 11:07:52
+
+<Source>  C:\Users\admin1\AppData\Local\element-desktop
+<DestDir> C:\Volumes\safebox.pfo\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 674 MiB
+TotalWrite = 674 MiB
+TotalFiles = 166 (25)
+TotalTime  = 3.6 sec
+TransRate  = 185.5 MiB/s
+FileRate   = 45.7 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2023/05/14 17:20:25
+
+<Source>  E:\windows\totalcmd\totalcmd.pfo
+<DestDir> Z:\totalcmd\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 24,689 MiB
+TotalWrite = 24,689 MiB
+TotalFiles = 1 (0)
+TotalTime  = 03:05
+TransRate  = 133.3 MiB/s
+FileRate   = 0.01 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2023/05/27 23:11:33
+
+<Source>  Z:\msys2
+<DestDir> D:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 4,960 MiB
+TotalWrite = 4,960 MiB
+TotalFiles = 140,667 (8,008)
+TotalTime  = 08:43
+TransRate  = 10.1 MiB/s
+FileRate   = 286.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2023/11/30 16:12:29
+
+<Source>  E:\Boot; E:\clean-disk; E:\iosauto; E:\iso; E:\PETools; "E:\System Volume Information"; E:\tools; E:\爱谁; E:\bootmgr; E:\bootTel.dat; E:\drvceo.halog; E:\gpt.GHO; E:\rodisk.exe; E:\vhdx.7z
+<DestDir> M:\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 18,522 MiB
+TotalWrite = 18,522 MiB
+TotalFiles = 898 (198)
+TotalTime  = 22:02
+TransRate  = 14.0 MiB/s
+FileRate   = 0.68 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2023/12/21 15:11:55
+
+<Source>  Z:\crm2
+<DestDir> E:\crm2222\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+OpenFile(Access is denied.5) : Z:\crm2\vmx-crm2-6d8df78365e1bd4fa86232d86abdfab244513a6594dde5718932bb9077bceede-3.vswp
+OpenFile(Access is denied.5) : Z:\crm2\crm2.vmdk
+OpenFile(Access is denied.5) : Z:\crm2\crm2-flat.vmdk
+OpenFile(Access is denied.5) : Z:\crm2\vmx-crm2-6d8df78365e1bd4fa86232d86abdfab244513a6594dde5718932bb9077bceede-2.vswp
+
+TotalRead  = 1.8 MiB
+TotalWrite = 1.8 MiB
+TotalFiles = 17 (1)
+TotalTime  = 1.0 sec
+TransRate  = 1.73 MiB/s
+FileRate   = 16.3 files/s
+
+Result : (ErrFiles : 4 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2023/12/21 15:12:10
+
+<Source>  Z:\crm2
+<DestDir> E:\crm2222\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+OpenFile(Access is denied.5) : Z:\crm2\vmx-crm2-6d8df78365e1bd4fa86232d86abdfab244513a6594dde5718932bb9077bceede-3.vswp
+OpenFile(Access is denied.5) : Z:\crm2\crm2.vmdk
+OpenFile(Access is denied.5) : Z:\crm2\crm2-flat.vmdk
+OpenFile(Access is denied.5) : Z:\crm2\vmx-crm2-6d8df78365e1bd4fa86232d86abdfab244513a6594dde5718932bb9077bceede-2.vswp
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalSkip  = 1.8 MiB
+SkipFiles  = 17 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MiB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 4 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2023/12/21 15:13:15
+
+<Source>  Z:\crm2.txt; Z:\crm2
+<DestDir> E:\crm2222\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+WriteFileWait(The system cannot find the file specified.2) : E:\crm2222\crm2\crm2-flat.vmdk
+CreateFile(The specified network resource or device is no longer available.55) : E:\crm2222\crm2\vmx-crm2-6d8df78365e1bd4fa86232d86abdfab244513a6594dde5718932bb9077bceede-2.vswp
+
+TotalRead  = 435 MiB
+TotalWrite = 210 MiB
+TotalFiles = 3 (0)
+TotalSkip  = 1.8 MiB
+SkipFiles  = 17 (0)
+TotalTime  = 18.3 sec
+TransRate  = 11.5 MiB/s
+FileRate   = 0.16 files/s
+
+Result : (ErrFiles : 2 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2023/12/21 15:18:13
+
+<Source>  Z:\crm2.txt; Z:\crm2
+<DestDir> E:\crm2222\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+WriteFileWait(The system cannot find the file specified.2) : E:\crm2222\crm2\crm2-flat.vmdk
+CreateFile(The specified network resource or device is no longer available.55) : E:\crm2222\crm2\vmx-crm2-6d8df78365e1bd4fa86232d86abdfab244513a6594dde5718932bb9077bceede-2.vswp
+
+TotalRead  = 1,445 MiB
+TotalWrite = 1,219 MiB
+TotalFiles = 0 (0)
+TotalSkip  = 95 MiB
+SkipFiles  = 20 (0)
+TotalTime  = 11.4 sec
+TransRate  = 107.0 MiB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 2 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2023/12/21 15:19:29
+
+<Source>  Z:\crm2.txt; Z:\crm2
+<DestDir> E:\crm2222\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+WriteFileWait(The system cannot find the file specified.2) : E:\crm2222\crm2\crm2-flat.vmdk
+WriteFileWait(The specified network resource or device is no longer available.55) : E:\crm2222\crm2\vmx-crm2-6d8df78365e1bd4fa86232d86abdfab244513a6594dde5718932bb9077bceede-2.vswp
+
+TotalRead  = 4,895 MiB
+TotalWrite = 4,649 MiB
+TotalFiles = 0 (0)
+TotalSkip  = 95 MiB
+SkipFiles  = 20 (0)
+TotalTime  = 02:19
+TransRate  = 33.4 MiB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 2 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2023/12/21 15:29:43
+
+<Source>  Z:\crm2.txt; Z:\crm2
+<DestDir> E:\crm2222\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 409,694 MiB
+TotalWrite = 409,694 MiB
+TotalFiles = 2 (0)
+TotalSkip  = 95 MiB
+SkipFiles  = 20 (0)
+TotalTime  = 03:16:32
+TransRate  = 34.7 MiB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+=================================================
+FastCopy(ver3.85) start at 2023/12/21 18:59:16
+
+<Source>  Z:\crm2.zip
+<DestDir> E:\crm2222\
+<Command> Diff (Size/Date)
+-------------------------------------------------
+
+TotalRead  = 275,265 MiB
+TotalWrite = 275,265 MiB
+TotalFiles = 1 (0)
+TotalTime  = 02:12:54
+TransRate  = 34.5 MiB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
